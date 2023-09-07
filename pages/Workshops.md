@@ -5,7 +5,7 @@
 These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
 ## Fall 2023 Workshops
 ### Week 1 (10/2-10/8)
-#### [General Workshop 1 (Neuroscience Fundamentals)](https://drive.google.com/drive/folders/16v9oXaLWFUvV1rEJRSMuDn_WdmRl8fN3?usp=drive_link)
+#### [General Workshop 1 (Overview/Neuroscience)](https://drive.google.com/drive/folders/16v9oXaLWFUvV1rEJRSMuDn_WdmRl8fN3?usp=drive_link)
 #### Advanced Workshop 1 (Signal Processing)
 ---
 

@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/styles.css">
 
 ### [Workshop Resources](pages/Workshops.md)
-Calendar for upcoming workshops and links to other resources as well
+Calendar for upcoming workshops and links to other resources
 
 ### [CruX Wiki (WIP)](https://cruxucla.netlify.app)
 Knowledge base for CruX UCLA containing coding documentation and our standard practices

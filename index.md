@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
   <title>My Page Title</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">

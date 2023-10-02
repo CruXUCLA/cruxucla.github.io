@@ -4,7 +4,6 @@
   <title>My Page Title</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
-<body>
 <link rel="stylesheet" href="css/styles.css">
 
 ### [Workshop Resources](pages/Workshops.md)

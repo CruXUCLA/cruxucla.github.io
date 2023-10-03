@@ -3,6 +3,7 @@
 # Workshops
 
 These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
+
 ## Fall 2023 Workshops
 ### Week 1 (10/2-10/8)
 #### [Info Session](https://docs.google.com/presentation/d/1mndJwCDquD57y05_pUfVrPM_aDiSFHWWWY6NIdRhet0/edit#slide=id.g15cb12bbd82_0_831)
@@ -57,7 +58,7 @@ These are links to Google folders containing workshop content like Google slides
         <a href="https://cruxucla.com">
         <img  class = "logo" border = "0" src = "../images/cruxUclaLogo.webp" alt = "CruX UCLA"/>
         </a>
-        <a href="https://github.com/CruXUCLA/cruxucla.github.io">
+        <a href="https://github.com/CruXUCLA">
         <img class = "logo" border = "0" src = "../images/githubLogo.png" alt = "Github"/>
         </a>
     </div>

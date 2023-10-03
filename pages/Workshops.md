@@ -1,6 +1,6 @@
 <head>
   <title>CruX GitHub Page Home</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
 </head>
 
 <link rel="stylesheet" href="../css/styles.css">

@@ -4,7 +4,7 @@
 </head>
 <link rel="stylesheet" href="css/styles.css">
 
-### [Workshop Resources](Workshops.md)
+### [Workshop Resources](pages/Workshops.md)
 Calendar for upcoming workshops and links to other resources
 
 ### [CruX Wiki (WIP)](https://cruxucla.netlify.app)
@@ -19,10 +19,10 @@ Our GitHub Organization
 <footer>
     <div id = "images">
         <a href="https://cruxucla.com">
-        <img  class = "logo" border = "0" src = "../images/cruxUclaLogo.webp" alt = "CruX UCLA"/>
+        <img  class = "logo" border = "0" src = "images/cruxUclaLogo.webp" alt = "CruX UCLA"/>
         </a>
         <a href="https://github.com/cruxucla">
-        <img class = "logo" border = "0" src = "../images/githubLogo.png" alt = "Github"/>
+        <img class = "logo" border = "0" src = "images/githubLogo.png" alt = "Github"/>
         </a>
     </div>
 </footer>

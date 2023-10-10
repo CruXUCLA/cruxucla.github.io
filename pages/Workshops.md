@@ -26,7 +26,7 @@ These are links to Google folders containing workshop content like Google slides
 #### Advanced Workshop 2 (Data Theory)
 ---
 ### Week 4 (10/23-10/29)
-#### Break for Midterms
+#### Neuroethical Debate (Optional)
 ---
 ### Week 5 (10/30-11/5)
 #### [General Workshop 3 (Intermediate Python)](https://drive.google.com/drive/folders/1ShJZjnD60aFw5YVHWwM3cQJtHMlzWJ40?usp=drive_link)

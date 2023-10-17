@@ -35,7 +35,7 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 6 (11/6-11/12)
 #### [General Workshop 4 (Signal Processing/BCI Intro)](https://drive.google.com/drive/folders/1rR-UIiUx8ZHIh6G5YbEEB8tarfp1uzok?usp=drive_link)
-#### [Advanced Workshop 4 (Intermedaite CNNs)](https://docs.google.com/presentation/u/8/d/1yQ53q-XoX9GMSQCRaJbQBvj53k0UUv2-YsftoJPQpEo/edit?usp=drive_web&ouid=112654333408205715328)
+#### [Advanced Workshop 4 (Intermedaite CNNs)]
 ---
 
 ### Week 7 (11/13-11/19)
@@ -45,7 +45,7 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 8 (11/20-11/26)
 #### [General Workshop 6 (Machine Learning/Classification Algos)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
-#### [Advanced Workshop 6 (Signal Processing with MATLAB)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
+#### [Advanced Workshop 6 (Signal Processing with MATLAB)]
 ---
 
 ### Week 9 (11/27-12/3)

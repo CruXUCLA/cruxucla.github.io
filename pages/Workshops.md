@@ -15,7 +15,7 @@ These are links to Google folders containing workshop content like Google slides
 ---
 ### Week 2 (10/9-10/15)
 #### [General Workshop 1 (Overview/Neuroscience)](https://drive.google.com/drive/folders/16v9oXaLWFUvV1rEJRSMuDn_WdmRl8fN3?usp=drive_link)
-#### Advanced Workshop 1 (Signal Processing)
+#### [Advanced Workshop 1 (Data Visualization)](https://drive.google.com/drive/folders/1UXota4_Q7RvbwKnfwszty3XN_vH_oThO?usp=sharing)
 ---
 
 ### Week 3 (10/16-10/22)
@@ -23,34 +23,34 @@ These are links to Google folders containing workshop content like Google slides
 * If you would like some practice with coding in Python, check out [codingbat.com/python](https://codingbat.com/python)
 * This website provides beginner-level coding problems in Python focused mainly on basic syntax, using loops, and manipulating strings/lists. For a diagnostic, try the last problem of each section, and if you can't solve it, start at the beginning of that section and perhaps watch tutorials for that problem online. However, there's no need to solve all the problems, maybe every 3 problems or so should cover the fundamentals
 
-#### Advanced Workshop 2 (Data Theory)
+#### [Advanced Workshop 2 (Advanced Signal Processing)](https://drive.google.com/drive/folders/1t9dDncrOTWYBQm1XRIm-Ud3gXrlWO7tc?usp=sharing)
 ---
 ### Week 4 (10/23-10/29)
 #### Neuroethical Debate (Optional)
 ---
 ### Week 5 (10/30-11/5)
 #### [General Workshop 3 (Intermediate Python)](https://drive.google.com/drive/folders/1ShJZjnD60aFw5YVHWwM3cQJtHMlzWJ40?usp=drive_link)
-#### Advanced Workshop 3 (Introduction to Machine Learning)
+#### Advanced Workshop 3 (Introduction to CNNs)
 ---
 
 ### Week 6 (11/6-11/12)
 #### [General Workshop 4 (Signal Processing/BCI Intro)](https://drive.google.com/drive/folders/1rR-UIiUx8ZHIh6G5YbEEB8tarfp1uzok?usp=drive_link)
-#### [Advanced Workshop 4 (Introduction to CNNs)](https://docs.google.com/presentation/u/8/d/1yQ53q-XoX9GMSQCRaJbQBvj53k0UUv2-YsftoJPQpEo/edit?usp=drive_web&ouid=112654333408205715328)
+#### [Advanced Workshop 4 (Intermedaite CNNs)](https://docs.google.com/presentation/u/8/d/1yQ53q-XoX9GMSQCRaJbQBvj53k0UUv2-YsftoJPQpEo/edit?usp=drive_web&ouid=112654333408205715328)
 ---
 
 ### Week 7 (11/13-11/19)
 #### [General Workshop 5 (EEG Analysis/ Feature Extraction)](https://drive.google.com/drive/folders/1avq_ppI87QofXhdeOSrv3sW9vMgimKgq?usp=drive_link)
-#### Advanced Workshop 5 (CNN Hyperparameter Tuning)
+#### Advanced Workshop 5 (Brainflow API)
 ---
 
 ### Week 8 (11/20-11/26)
 #### [General Workshop 6 (Machine Learning/Classification Algos)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
-#### [Advanced Workshop 6 (Machine Learning/Classification Algos)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
+#### [Advanced Workshop 6 (Signal Processing with MATLAB)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
 ---
 
 ### Week 9 (11/27-12/3)
 #### [General Workshop 7 (BCI Team Workflows)](https://drive.google.com/drive/folders/1l-iGqwpeialr_Lu2QOdpSQAOtxZ-G1Wr?usp=drive_link)
-#### Advanced Workshop 7 (Unsupervised Learning)
+#### N/A
 ---
 ### Week 10 (12/4-12/10)
 #### Break for Finals

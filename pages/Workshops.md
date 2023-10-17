@@ -23,7 +23,7 @@ These are links to Google folders containing workshop content like Google slides
 * If you would like some practice with coding in Python, check out [codingbat.com/python](https://codingbat.com/python)
 * This website provides beginner-level coding problems in Python focused mainly on basic syntax, using loops, and manipulating strings/lists. For a diagnostic, try the last problem of each section, and if you can't solve it, start at the beginning of that section and perhaps watch tutorials for that problem online. However, there's no need to solve all the problems, maybe every 3 problems or so should cover the fundamentals
 
-#### Advanced Workshop 2 (Data Theory)
+#### [Advanced Workshop 2 (EEG Signal Processing Techniques)](https://drive.google.com/drive/folders/1t9dDncrOTWYBQm1XRIm-Ud3gXrlWO7tc?usp=drive_link)
 ---
 ### Week 4 (10/23-10/29)
 #### Neuroethical Debate (Optional)

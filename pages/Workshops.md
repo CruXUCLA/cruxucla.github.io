@@ -30,7 +30,7 @@ These are links to Google folders containing workshop content like Google slides
 ---
 ### Week 5 (10/30-11/5)
 #### [General Workshop 3 (Intermediate Python)](https://drive.google.com/drive/folders/1ShJZjnD60aFw5YVHWwM3cQJtHMlzWJ40?usp=drive_link)
-#### Advanced Workshop 3 (Introduction to CNNs)
+#### [Advanced Workshop 3 (Introduction to CNNs)](https://drive.google.com/drive/folders/1bfoDHr2vfmKJhbrOeVdhSepDN7W9kfIe?usp=sharing)
 ---
 
 ### Week 6 (11/6-11/12)

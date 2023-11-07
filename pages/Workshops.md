@@ -35,7 +35,7 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 6 (11/6-11/12)
 #### [General Workshop 4 (Signal Processing/BCI Intro)](https://drive.google.com/drive/folders/1rR-UIiUx8ZHIh6G5YbEEB8tarfp1uzok?usp=drive_link)
-#### [Advanced Workshop 4 (Intermedaite CNNs)]
+#### [Advanced Workshop 4 (CNNs for Neural Signal Processing)](https://drive.google.com/drive/folders/1wQwidYwZa1ABPrKDkz_M0EMwIe1Nf1de?usp=drive_link)
 ---
 
 ### Week 7 (11/13-11/19)

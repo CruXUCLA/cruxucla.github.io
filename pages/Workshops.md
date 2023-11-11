@@ -40,12 +40,12 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 7 (11/13-11/19)
 #### [General Workshop 5 (EEG Analysis/ Feature Extraction)](https://drive.google.com/drive/folders/1avq_ppI87QofXhdeOSrv3sW9vMgimKgq?usp=drive_link)
-#### Advanced Workshop 5 (Brainflow API)
+#### [Advanced Workshop 5 (Signal Processing with MATLAB)](https://drive.google.com/drive/folders/1t9UDG9y_Mx2_VeakHjMLTN3c1bl919DR?usp=drive_link)
 ---
 
 ### Week 8 (11/20-11/26)
 #### [General Workshop 6 (Machine Learning/Classification Algos)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
-#### [Advanced Workshop 6 (Signal Processing with MATLAB)]
+#### [Advanced Workshop 6 (Brainflow API)]
 ---
 
 ### Week 9 (11/27-12/3)

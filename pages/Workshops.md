@@ -45,7 +45,7 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 8 (11/20-11/26)
 #### [General Workshop 6 (Machine Learning/Classification Algos)](https://drive.google.com/drive/folders/17gqGkv6ZfXiYBMe6qR3HXt1CeIrdQ77y?usp=drive_link)
-#### [Advanced Workshop 6 (Brainflow API)]
+#### [Advanced Workshop 6 (Brainflow API)](https://drive.google.com/drive/folders/1d0w7_Aow_QBve9rdrO4IDb1H_XNY_SWR?usp=sharing)
 ---
 
 ### Week 9 (11/27-12/3)

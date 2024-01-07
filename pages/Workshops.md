@@ -59,6 +59,7 @@ These are links to Google folders containing workshop content like Google slides
 ### Week 10 (12/4-12/10)
 #### Break for Finals
 ---
+
 </details>
 
 <details open>
@@ -103,6 +104,7 @@ Teams may submit their items in [this folder](https://drive.google.com/drive/fol
 ### Week 10 (3/11-3/17)
 #### End of Quarter Presentations
 ---
+
 </details>
 
 

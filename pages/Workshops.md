@@ -33,11 +33,11 @@ Teams may submit their items in [this folder](https://drive.google.com/drive/fol
 #### [Workshop 3 (OpenBCI I)](https://drive.google.com/drive/folders/1qS1rWwAxzF7sSR7Q3eJz6B_Q3aPv3qxx?usp=drive_link)
 ---
 ### Week 5 (2/5-2/11)
-#### [Workshop 4 (Data flow + Project Design)](https://drive.google.com/drive/folders/1e5jAxNVOY-NV2aKK-ekJECGdwW7aINjZ?usp=drive_link)
+#### Rescheduled Workshop due to Rain
 ---
 
 ### Week 6 (2/12-2/18)
-#### [Workshop 5 (LSL and Streaming)](https://drive.google.com/drive/folders/1shiQtMtkkIbojwNvfF88yF0ugjF4FL1F?usp=drive_link)
+#### [Workshop 4 (Data flow + Project Design)](https://drive.google.com/drive/folders/1e5jAxNVOY-NV2aKK-ekJECGdwW7aINjZ?usp=drive_link)
 ---
 
 ### Week 7 (2/19-2/25)
@@ -45,11 +45,11 @@ Teams may submit their items in [this folder](https://drive.google.com/drive/fol
 ---
 
 ### Week 8 (2/26-3/3)
-#### [Workshop 6 (OpenBCI II)](https://drive.google.com/drive/folders/1niqhEprXzxeYSUDyIPRYEmgWulX1Z2_L?usp=drive_link)
+#### [Workshop 5 (Data Streaming)](https://drive.google.com/drive/folders/1shiQtMtkkIbojwNvfF88yF0ugjF4FL1F?usp=drive_link)
 ---
 
 ### Week 9 (3/4-3/10)
-#### [Workshop 7 (GUI Design)](https://drive.google.com/drive/folders/1OjqAEfxVILkc_RS3LCpV-5zK9jnTNWuC?usp=drive_link)
+#### [Workshop 6 (OpenBCI II/GUI Design)](https://drive.google.com/drive/folders/1niqhEprXzxeYSUDyIPRYEmgWulX1Z2_L?usp=drive_link)
 ---
 ### Week 10 (3/11-3/17)
 #### End of Quarter Presentations

@@ -1,4 +1,5 @@
 <head>
+  {% include head.html %}
   <title>CruX GitHub Page Home</title>
   <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
 </head>

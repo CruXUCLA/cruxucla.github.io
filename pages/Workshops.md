@@ -12,51 +12,47 @@ These are links to Google folders containing workshop content like Google slides
 
 ## [Fall 2023 Workshops (Old)](FallWorkshops.md)
 
-## Winter 2024 Workshops
+## [Winter 2024 Workshops (Old)](WinterWorkshops.md)
 
-Check out [this sheet](https://docs.google.com/spreadsheets/d/1OMSgSO6YgTI3UNketSgY3b3-MV9oiLd0ZNcdZFaUvuU/edit#gid=0) to see the goals and tasks to complete for each week
+## Spring 2024 Workshops (TBA)
 
-Teams may submit their items in [this folder](https://drive.google.com/drive/folders/1foow4_pacHGtoGGKtxP308MsGxsReQL4?usp=drive_link)
+[BCI Teams Schedule Google Spreadsheet](https://docs.google.com/spreadsheets/d/1OMSgSO6YgTI3UNketSgY3b3-MV9oiLd0ZNcdZFaUvuU/edit#gid=1832398789)
 
----
-### Week 1 (1/8-1/14)
-#### [Workshop 1 (Assigning Teams)](https://drive.google.com/drive/folders/15VLq8bfdOSov3nfHJobFFpXWOlhXBVP2?usp=drive_link)
----
-### Week 2 (1/15-1/21)
-#### MLK Holiday
----
-
-### Week 3 (1/22-1/28)
-#### [Workshop 2 (Project Proposals + Lit Review)](https://drive.google.com/drive/folders/1a9S8hOKRatuW0SIzbGbjmkt_oDWxZQq0?usp=drive_link)
+[BCI Teams Submission Folder](https://drive.google.com/drive/folders/1foow4_pacHGtoGGKtxP308MsGxsReQL4?usp=drive_link)
 
 ---
-### Week 4 (1/29-2/4)
-#### [Workshop 3 (OpenBCI I)](https://drive.google.com/drive/folders/1qS1rWwAxzF7sSR7Q3eJz6B_Q3aPv3qxx?usp=drive_link)
+
+### Week 1 (4/1-4/7)
+
 ---
-### Week 5 (2/5-2/11)
-#### Rescheduled Workshop due to Rain
+### Week 2 (4/8-4/14)
 ---
 
-### Week 6 (2/12-2/18)
-#### [Workshop 4 (Data flow + Project Design)](https://drive.google.com/drive/folders/1e5jAxNVOY-NV2aKK-ekJECGdwW7aINjZ?usp=drive_link)
+### Week 3 (4/15-4/21)
+
+---
+### Week 4 (4/22-4/28)
+
+---
+### Week 5 (4/29-5/5)
 ---
 
-### Week 7 (2/19-2/25)
-#### President's Day Holiday
+### Week 6 (5/6-5/12)
 ---
 
-### Week 8 (2/26-3/3)
-#### [Workshop 5 (Data Streaming)](https://drive.google.com/drive/folders/1shiQtMtkkIbojwNvfF88yF0ugjF4FL1F?usp=drive_link)
+### Week 7 (5/13-5/19)
 ---
 
-### Week 9 (3/4-3/10)
-#### [Workshop 6 (OpenBCI II/GUI Design)](https://drive.google.com/drive/folders/1zm37uE79-7eeD8BYo2RVKNOx0tiMecEX?usp=sharing)
----
-### Week 10 (3/11-3/17)
-#### End of Quarter Presentations
+### Week 8 (5/20-5/26)
 ---
 
-## Spring 2023 Workshops (TBA)
+### Week 9 (5/27-6/2)
+
+#### Memorial Day
+
+---
+### Week 10 (6/3-6/9)
+---
 
 <footer>
     <div id = "images">

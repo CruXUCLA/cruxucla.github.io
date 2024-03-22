@@ -8,7 +8,10 @@
 ### [Workshop Resources](pages/Workshops.md)
 Calendar for upcoming workshops and links to other resources
 
-### [CruX Wiki (WIP)](https://cruxucla.netlify.app)
+### [Campuswire Forum](https://campuswire.com/p/G928C6B14)
+Forum to ask questions. The join code is 6679
+
+### [Wiki (WIP)](https://cruxucla.netlify.app)
 Knowledge base for CruX UCLA containing coding documentation and our standard practices
 
 ### [CruX GitHub Account](https://github.com/crux-ucla/)

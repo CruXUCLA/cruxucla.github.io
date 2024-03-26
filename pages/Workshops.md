@@ -23,35 +23,43 @@ These are links to Google folders containing workshop content like Google slides
 ---
 
 ### Week 1 (4/1-4/7)
+#### BCI Team Presentations
+These are for the second half of teams that did not present at the end of winter quarter
 
 ---
 ### Week 2 (4/8-4/14)
+#### [Workshop 1 (Neurotech Soft Skills)](https://drive.google.com/drive/folders/1fqOAi-qVlsauQbaNBWFDMbRKoCTs_ip2?usp=sharing)
 ---
 
 ### Week 3 (4/15-4/21)
-
+#### Symposium
 ---
 ### Week 4 (4/22-4/28)
-
+#### Lab Hours
 ---
+
 ### Week 5 (4/29-5/5)
+#### [Workshop 2 (Machine Learning II / Neural Networks)](https://drive.google.com/drive/folders/1bKucnYQD8hDzkax8kegtn5Rcb5raVT2U?usp=sharing)
 ---
 
 ### Week 6 (5/6-5/12)
+#### Lab Hours
 ---
 
 ### Week 7 (5/13-5/19)
+#### [Workshop 3 (Medical Neurotech)](https://drive.google.com/drive/folders/1Mm1koUOWkf8XPgb0gnsmjs4AzdNRmR49?usp=sharing)
 ---
 
 ### Week 8 (5/20-5/26)
+#### Lab Hours
 ---
 
 ### Week 9 (5/27-6/2)
-
 #### Memorial Day
-
 ---
+
 ### Week 10 (6/3-6/9)
+#### End of Year Presentations
 ---
 
 <footer>

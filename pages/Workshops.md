@@ -32,10 +32,10 @@ These are for the second half of teams that did not present at the end of winter
 ---
 
 ### Week 3 (4/15-4/21)
-#### Symposium
+#### Lab Hours
 ---
 ### Week 4 (4/22-4/28)
-#### Lab Hours
+#### Symposium
 ---
 
 ### Week 5 (4/29-5/5)

@@ -32,7 +32,7 @@ These are for the second half of teams that did not present at the end of winter
 ---
 
 ### Week 3 (4/15-4/21)
-#### Lab Hours
+#### [Lab Hours](https://docs.google.com/spreadsheets/d/1s9dI6kMF_f4R9B4pniQbEj1RsT5Bh750J74ocsvlRkQ/edit#gid=0)
 ---
 ### Week 4 (4/22-4/28)
 #### Symposium
@@ -43,7 +43,7 @@ These are for the second half of teams that did not present at the end of winter
 ---
 
 ### Week 6 (5/6-5/12)
-#### Lab Hours
+#### [Lab Hours](https://docs.google.com/spreadsheets/d/1s9dI6kMF_f4R9B4pniQbEj1RsT5Bh750J74ocsvlRkQ/edit#gid=0)
 ---
 
 ### Week 7 (5/13-5/19)

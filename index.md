@@ -1,8 +1,8 @@
 <head>
   {% include head.html %}
   <title>CruX GitHub Page Home</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <meta name="google-site-verification" content="0cKaw84X47e-dO5ULPl9bGz8Ip5ro4ZiRNgnGU7JtTo" />
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 <link rel="stylesheet" href="css/styles.css">
 

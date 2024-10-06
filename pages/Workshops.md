@@ -14,52 +14,44 @@ These are links to Google folders containing workshop content like Google slides
 
 ## [Winter 2024 Workshops (Old)](WinterWorkshops.md)
 
-## Spring 2024 Workshops (TBA)
+## [Spring 2024 Workshops (Old)](SpringWorkshops.md)
 
-[BCI Teams Schedule Google Spreadsheet](https://docs.google.com/spreadsheets/d/1OMSgSO6YgTI3UNketSgY3b3-MV9oiLd0ZNcdZFaUvuU/edit#gid=1832398789)
+# Fall 2024 Workshops
 
-[BCI Teams Submission Folder](https://drive.google.com/drive/folders/1foow4_pacHGtoGGKtxP308MsGxsReQL4?usp=drive_link)
-
+### Week 1 (9/30-10/6)
+#### [Info Session](https://docs.google.com/presentation/d/1erZSJ95yAmtkw6BMaYqX7oEQB8NmpldIsk45HySc8i4/edit#slide=id.p)
+---
+### Week 2 (10/7-10/13)
+#### [Workshop 1 (Overview/Neuroscience)](https://drive.google.com/drive/u/5/folders/1wmRyXEJMorEowLCLgblsZsg89L1MgoAV)
 ---
 
-### Week 1 (4/1-4/7)
-#### BCI Team Presentations
-These are for the second half of teams that did not present at the end of winter quarter
-
+### Week 3 (10/14-10/20)
+#### [Workshop 2 (Medical Neurotech/Projects)](https://drive.google.com/drive/u/5/folders/1_Bc-YSl9CHDDdv7li4hQkFJ1K43QDH1D)
 ---
-### Week 2 (4/8-4/14)
-#### [Workshop 1 (Neurotech Soft Skills)](https://drive.google.com/drive/folders/1fqOAi-qVlsauQbaNBWFDMbRKoCTs_ip2?usp=sharing)
+### Week 4 (10/21-10/27)
+#### [Neuroethical Debate (Optional)](https://drive.google.com/drive/u/5/folders/1EsglW3sFSnKj1ilmKlwGZ60-bg-Gk8bK)
 ---
-
-### Week 3 (4/15-4/21)
-#### [Lab Hours](https://docs.google.com/spreadsheets/d/1s9dI6kMF_f4R9B4pniQbEj1RsT5Bh750J74ocsvlRkQ/edit#gid=0)
----
-### Week 4 (4/22-4/28)
-#### Symposium
+### Week 5 (10/28-11/3)
+#### [Workshop 3 (F24 WS3: BCI Teams Workflows/Literature Review)](https://drive.google.com/drive/u/5/folders/1ROVMSiYN8CrrVdZxGBsWVs_lyVs344nP)
 ---
 
-### Week 5 (4/29-5/5)
-#### [Workshop 2 (Machine Learning II / Neural Networks)](https://drive.google.com/drive/folders/1bKucnYQD8hDzkax8kegtn5Rcb5raVT2U?usp=sharing)
+### Week 6 (11/4-11/10)
+#### Workshop 4 (OpenBCI I)
 ---
 
-### Week 6 (5/6-5/12)
-#### Canceled Lab Hours Due to Campus Events
+### Week 7 (11/11-11/17)
+#### Workshop 5 (Project Proposals/Project Design)
 ---
 
-### Week 7 (5/13-5/19)
-#### [Workshop 3 (Medical Neurotech)](https://drive.google.com/drive/folders/1Mm1koUOWkf8XPgb0gnsmjs4AzdNRmR49?usp=sharing)
+### Week 8 (11/18-11/24)
+#### Workshop 6 (Technical Overview)
 ---
 
-### Week 8 (5/20-5/26)
-#### Lab Hours
+### Week 9 (11/25-12/1)
+#### Workshop 7 (Critique Project Proposals/Presentations)
 ---
-
-### Week 9 (5/27-6/2)
-#### Memorial Day
----
-
-### Week 10 (6/3-6/9)
-#### End of Year Presentations
+### Week 10 (12/2-12/8)
+#### Workshop 8 (Presentations Continued)
 ---
 
 <footer>

@@ -1,4 +1,4 @@
-# To View This Website: [cruxucla.github.io](cruxucla.github.io)
+# To View This Website: [cruxucla.github.io](https://cruxucla.github.io)
 
 Github page for CruxUCLA
 

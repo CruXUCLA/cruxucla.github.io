@@ -36,7 +36,7 @@ These are links to Google folders containing workshop content like Google slides
 ---
 
 ### Week 6 (11/4-11/10)
-#### Workshop 4 (OpenBCI I)
+#### [Workshop 4 (OpenBCI I)](https://drive.google.com/drive/folders/1j6P0zVVQNyuczKIg5iEu5TNcWjDUNxFN?usp=drive_link)
 ---
 
 ### Week 7 (11/11-11/17)

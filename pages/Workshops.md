@@ -48,10 +48,10 @@ These are links to Google folders containing workshop content like Google slides
 ---
 
 ### Week 9 (11/25-12/1)
-#### Workshop 6 (Project Proposals)
+#### Workshop 6 (Technical Overview)
 ---
 ### Week 10 (12/2-12/8)
-#### Workshop 8 (Presentations Continued)
+#### Workshop 7 (Presentations)
 ---
 
 <footer>

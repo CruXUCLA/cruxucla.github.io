@@ -40,15 +40,15 @@ These are links to Google folders containing workshop content like Google slides
 ---
 
 ### Week 7 (11/11-11/17)
-#### [Workshop 5 (Project Proposals/Project Design)](https://drive.google.com/drive/u/5/folders/1YW8bPw2KNrqRRkiNazdMAXF1pJpgc2M2)
+#### Veteran's Day
 ---
 
 ### Week 8 (11/18-11/24)
-#### Workshop 6 (Technical Overview)
+#### [Workshop 5 (Project Proposals/Project Design)](https://drive.google.com/drive/u/5/folders/1YW8bPw2KNrqRRkiNazdMAXF1pJpgc2M2)
 ---
 
 ### Week 9 (11/25-12/1)
-#### Workshop 7 (Critique Project Proposals/Presentations)
+#### Workshop 6 (Project Proposals)
 ---
 ### Week 10 (12/2-12/8)
 #### Workshop 8 (Presentations Continued)

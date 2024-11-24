@@ -40,7 +40,7 @@ These are links to Google folders containing workshop content like Google slides
 ---
 
 ### Week 7 (11/11-11/17)
-#### Workshop 5 (Project Proposals/Project Design)
+#### [Workshop 5 (Project Proposals/Project Design)](https://drive.google.com/drive/u/5/folders/1YW8bPw2KNrqRRkiNazdMAXF1pJpgc2M2)
 ---
 
 ### Week 8 (11/18-11/24)

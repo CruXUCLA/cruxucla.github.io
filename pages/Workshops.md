@@ -51,7 +51,7 @@ These are links to Google folders containing workshop content like Google slides
 #### [Workshop 6 (Technical Overview)](https://drive.google.com/drive/u/2/folders/1Mo8QsHLGPL86tP4lu0GwB-dIwPO1oYZO)
 ---
 ### Week 10 (12/2-12/8)
-#### Workshop 7 (Presentations)
+#### [Workshop 7 (Presentations)](https://drive.google.com/drive/u/2/folders/1x1f96KSrNdBrjLK9xWVlv-90rPyNZTM5)
 ---
 
 <footer>

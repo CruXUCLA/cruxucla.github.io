@@ -10,48 +10,50 @@
 
 These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
 
-## [Fall 2023 Workshops (Old)](FallWorkshops.md)
+### [Fall 2023 Workshops (Old)](FallWorkshops.md)
 
-## [Winter 2024 Workshops (Old)](WinterWorkshops.md)
+### [Winter 2024 Workshops (Old)](WinterWorkshops.md)
 
-## [Spring 2024 Workshops (Old)](SpringWorkshops.md)
+### [Spring 2024 Workshops (Old)](SpringWorkshops.md)
 
-# Fall 2024 Workshops
+### [Fall 2024 Workshops (Old)](FallWorkshops24.md)
 
-### Week 1 (9/30-10/6)
-#### [Info Session](https://docs.google.com/presentation/d/1erZSJ95yAmtkw6BMaYqX7oEQB8NmpldIsk45HySc8i4/edit#slide=id.p)
+# Winter 2025 Workshops
+
+### Week 1 (1/6-1/12)
+#### [Workshop 1 (Setup/Preprocessing)](https://drive.google.com/drive/u/1/folders/1NaXX6BsD9aTMzpTVC4By7oBNL2Qyp1pX)
 ---
-### Week 2 (10/7-10/13)
-#### [Workshop 1 (Overview/Neuroscience)](https://drive.google.com/drive/u/5/folders/1wmRyXEJMorEowLCLgblsZsg89L1MgoAV)
----
-
-### Week 3 (10/14-10/20)
-#### [Workshop 2 (Medical Neurotech/Projects)](https://drive.google.com/drive/u/5/folders/1_Bc-YSl9CHDDdv7li4hQkFJ1K43QDH1D)
----
-### Week 4 (10/21-10/27)
-#### [Neuroethical Debate (Optional)](https://drive.google.com/drive/u/5/folders/1EsglW3sFSnKj1ilmKlwGZ60-bg-Gk8bK)
----
-### Week 5 (10/28-11/3)
-#### [Workshop 3 (F24 WS3: BCI Teams Workflows/Literature Review)](https://drive.google.com/drive/u/5/folders/1ROVMSiYN8CrrVdZxGBsWVs_lyVs344nP)
+### Week 2 (1/13-1/19)
+#### [Workshop 2 (Python Fundamentals)](https://drive.google.com/drive/u/1/folders/1SbOb7IwJqpZLvDSC7w-EXD20WeobdCQ5)
 ---
 
-### Week 6 (11/4-11/10)
-#### [Workshop 4 (OpenBCI I)](https://drive.google.com/drive/folders/1j6P0zVVQNyuczKIg5iEu5TNcWjDUNxFN?usp=drive_link)
+### Week 3 (1/20-1/26)
+#### MLK Holiday
+---
+### Week 4 (1/27-2/2)
+#### [Workshop 3 (Intermediate Python)](https://drive.google.com/drive/u/1/folders/1nnb3PFG5fWTaabronMR-OImTolXf4Xq-)
+---
+### Week 5 (2/3-2/9)
+#### [Workshop 4 (OpenBCI II/Data Streaming)](https://drive.google.com/drive/u/1/folders/1otB_0wD743qrS3f0o9RCeRacN0Whd_p2)
 ---
 
-### Week 7 (11/11-11/17)
-#### Veteran's Day
+### Week 6 (2/10-2/16)
+#### [Workshop 5 (Signal Processing/BCI Intro)](https://drive.google.com/drive/u/1/folders/1Ncra9sj_75Pgnh5NfYTmd7vXngkAWthy)
 ---
 
-### Week 8 (11/18-11/24)
-#### [Workshop 5 (Project Proposals/Project Design)](https://drive.google.com/drive/u/5/folders/1YW8bPw2KNrqRRkiNazdMAXF1pJpgc2M2)
+### Week 7 (2/17-2/23)
+#### President's Day Holiday
 ---
 
-### Week 9 (11/25-12/1)
-#### [Workshop 6 (Technical Overview)](https://drive.google.com/drive/u/2/folders/1Mo8QsHLGPL86tP4lu0GwB-dIwPO1oYZO)
+### Week 8 (2/24-3/2)
+#### [Workshop 6 (EEG Analysis/Feature Extraction)](https://drive.google.com/drive/u/1/folders/1zBCckxlZqzAZudksLwOAculWmattV1oJ)
 ---
-### Week 10 (12/2-12/8)
-#### [Workshop 7 (Presentations)](https://drive.google.com/drive/u/2/folders/1x1f96KSrNdBrjLK9xWVlv-90rPyNZTM5)
+
+### Week 9 (3/3-3/9)
+#### [Workshop 7 (Machine Learning/Classification Algorithms)](https://drive.google.com/drive/u/1/folders/1MxKD2xwB6mZaYfryePV56xzwj1fJ7HC7)
+---
+### Week 10 (3/10-3/16)
+#### [Workshop 8 (End of Quarter Presentations)](https://drive.google.com/drive/u/1/folders/1xwRtULHY24l5WUjDfMPPHIBe9oJXNGD2)
 ---
 
 <footer>

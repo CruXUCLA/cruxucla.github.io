@@ -14,7 +14,7 @@
 ---
 ### Week 2 (10/9-10/15)
 #### [General Workshop 1 (Overview/Neuroscience)](https://drive.google.com/drive/folders/16v9oXaLWFUvV1rEJRSMuDn_WdmRl8fN3?usp=drive_link)
-#### [Advanced Workshop 1 (Data Visualization)]([https://drive.google.com/drive/folders/1UXota4_Q7RvbwKnfwszty3XN_vH_oThO?usp=sharing](https://drive.google.com/drive/u/1/folders/1C8ASQN33sJ0U3dLd542kQBoIwd4qS-eD))
+#### [Advanced Workshop 1 (Data Visualization)](https://drive.google.com/drive/folders/1UXota4_Q7RvbwKnfwszty3XN_vH_oThO?usp=sharing)
 ---
 
 ### Week 3 (10/16-10/22)

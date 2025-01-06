@@ -22,10 +22,10 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 1 (1/6-1/12)
 #### [Workshop 1 (Setup/Preprocessing)](https://drive.google.com/drive/u/1/folders/1NaXX6BsD9aTMzpTVC4By7oBNL2Qyp1pX)
-#### [Advanced Workshop 1 (Data Visualization)](https://drive.google.com/drive/u/1/folders/1C8ASQN33sJ0U3dLd542kQBoIwd4qS-eD)
 ---
 ### Week 2 (1/13-1/19)
 #### [Workshop 2 (Python Fundamentals)](https://drive.google.com/drive/u/1/folders/1SbOb7IwJqpZLvDSC7w-EXD20WeobdCQ5)
+#### [Advanced Workshop 1 (Data Visualization)](https://drive.google.com/drive/u/1/folders/1C8ASQN33sJ0U3dLd542kQBoIwd4qS-eD)
 ---
 
 ### Week 3 (1/20-1/26)

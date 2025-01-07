@@ -19,8 +19,7 @@ These are links to Google folders containing workshop content like Google slides
 ### [Fall 2024 Workshops (Old)](FallWorkshops24.md)
 
 # Winter 2025 Workshops
-
-:)
+>:)
 ### Week 1 (1/6-1/12)
 #### [Workshop 1 (Setup/Preprocessing)](https://drive.google.com/drive/u/1/folders/1NaXX6BsD9aTMzpTVC4By7oBNL2Qyp1pX)
 ---

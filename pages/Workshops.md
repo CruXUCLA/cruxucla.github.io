@@ -31,7 +31,7 @@ These are links to Google folders containing workshop content like Google slides
 ### Week 3 (4/14-4/20)
 #### Technical Troubleshooting
 
-### Week 2 (4/21-4/38)
+### Week 4 (4/21-4/38)
 #### [Workshop 3 (Poster-making Session)](https://drive.google.com/drive/u/0/folders/1Qeb14KAMMvTVvmLpZO4GTB__cZlxUu_O)
 <!-----
 

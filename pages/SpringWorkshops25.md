@@ -14,13 +14,10 @@
 ### Week 2 (4/7-4/13)
 #### [Workshop 2 (Machine Learning II/Neural Networks)](https://drive.google.com/drive/u/4/folders/1PR-sEV391IALwpEbkp-c8rk1EmsprOWZ)
 
-### Week 3 (4/14-4/20)
-#### Technical Troubleshooting
-
 ### Week 4 (4/21-4/27)
 #### [Workshop 3 (Poster-making Session)](https://drive.google.com/drive/u/0/folders/1Qeb14KAMMvTVvmLpZO4GTB__cZlxUu_O)
 
-### Week 4 (4/28-5/4)
+### Week 5 (4/28-5/4)
 #### [Workshop 4 (Conference Reflection)](https://drive.google.com/drive/u/0/folders/10ROuJQ3LR7fG6Wf00kXVl6ylgL0TqxU-)
 
 

@@ -22,7 +22,10 @@ These are links to Google folders containing workshop content like Google slides
 
 ### [Spring 2025 Workshops (Old)](SpringWorkshops25.md)
 
-# Spring 2025 Workshops
+# Fall 2025 Workshops
+
+### Week 1 (09/29-10/05)
+#### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
 
 ### Week 1 (3/31-4/6)
 #### [Workshop 1 (Team Presentations/Soft Skills)](https://drive.google.com/drive/u/4/folders/1QAjno-1yo597CTk_EsTWZvLbi5hhFy0V)

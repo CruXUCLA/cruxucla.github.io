@@ -20,6 +20,8 @@ These are links to Google folders containing workshop content like Google slides
 
 ### [Winter 2025 Workshops (Old)](WinterWorkshops25.md)
 
+### [Spring 2025 Workshops (Old)](SpringWorkshops25.md)
+
 # Spring 2025 Workshops
 
 ### Week 1 (3/31-4/6)

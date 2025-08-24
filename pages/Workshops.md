@@ -26,26 +26,49 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 1 (09/29-10/05) Info Session!
 
-### Week 2 (10/06-10/12)
-#### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
+### Week 2 (10/06-10/12) 
+####[Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
+* Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
+#### Extra Resources
+* Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
+* Intro to Python: https://codingbat.com/python
+* Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
+
 
 ### Week 3 (10/13-10/19)
 #### [Workshop 2 (Understanding EEG Signals)](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_)
+* Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
+#### Extra Resources
+* EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
+* Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
+* MNE Documentation: https://mne.tools/stable/index.html
 
 ### Week 4 (10/20-10/26)
 #### [Workshop 3 (Preprocessing I)](https://drive.google.com/drive/folders/1D3VE93yXh4-OCX0R4xAN8Yl_BKmILfLT)
+* Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, and notch.
+#### Extra Resources
+* Electroencephalography Signal Processing: A Comprehensive Review and Analysis of Methods and Techniques: https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/
+* More about Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 
 ### Week 5 (10/27-11/02)
 #### [Workshop 4 (Preprocessing II)](https://drive.google.com/drive/folders/1EtWsmANlcejFBEGIQkZxH2JP-KG2Biiq)
+* Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
+#### Extra Resources
 
 ### Week 6 (11/03-11/09)
 #### [Workshop 5 (Feature Extraction)](https://drive.google.com/drive/folders/1Ip8U5egS2HJuVUzGQ3DPyeeU94StdDtA)
+* Workshop 5 provided a hands-on walk-through of the P300 Speller project, covering feature extraction in BCI, visualization of raw EEG channels, applying filters, epoching and averaging the data, and extracting features for analysis.
+#### Extra Resources
 
 ### Week 7 (11/10-11/16)
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
+* Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
+#### Extra Resources
 
 ### Week 8 (11/17-11/23)
 #### [Workshop 7 (Evaluation and Visualization)](https://drive.google.com/drive/folders/1afIG8-E0j8uGzQDHwKYVeX7uHJsg1DYJ)
+* Workshop 7 focused on model evaluation and result visualization, discussing why these steps are essential, the concept of accuracy, the use of confusion matrices, and methods for visualizing model performance.
+#### Extra Resources
 
 ### Week 9 (11/24-11/30) Final Showcase + Team Pathways + BCI Team Signups
 

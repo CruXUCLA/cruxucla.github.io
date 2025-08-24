@@ -5,8 +5,6 @@
 </head>
 
 <link rel="stylesheet" href="../css/styles.css">
-
-<p style="line-height:1.2;">
   
 # Workshops
 - These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
@@ -62,8 +60,6 @@
 ### Week 9 (11/24-11/30) Final Showcase + Team Pathways + BCI Team Signups
 
 ### Week 10 (12/01-12/07) Good Luck on Finals!
-
-</p>
 
 ---
 

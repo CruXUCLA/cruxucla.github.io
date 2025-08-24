@@ -5,6 +5,7 @@
 </head>
 
 <link rel="stylesheet" href="../css/styles.css">
+
 <p style="line-height:1.2;">
   
 # Workshops
@@ -61,6 +62,7 @@
 ### Week 9 (11/24-11/30) Final Showcase + Team Pathways + BCI Team Signups
 
 ### Week 10 (12/01-12/07) Good Luck on Finals!
+
 </p>
 
 ---

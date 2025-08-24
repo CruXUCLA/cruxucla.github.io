@@ -6,34 +6,22 @@
 
 <link rel="stylesheet" href="../css/styles.css">
 <p style="line-height:1.2;">
+  
 # Workshops
+- These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
+- Previous workshops links are moved to the bottom of the page
 
-These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
-
-### [Fall 2023 Workshops (Old)](FallWorkshops.md)
-
-### [Winter 2024 Workshops (Old)](WinterWorkshops.md)
-
-### [Spring 2024 Workshops (Old)](SpringWorkshops.md)
-
-### [Fall 2024 Workshops (Old)](FallWorkshops24.md)
-
-### [Winter 2025 Workshops (Old)](WinterWorkshops25.md)
-
-### [Spring 2025 Workshops (Old)](SpringWorkshops25.md)
----
-# Fall 2025 Workshops
+## Fall 2025 Workshops
 
 ### Week 1 (09/29-10/05) Info Session!
 
 ### Week 2 (10/06-10/12) 
-####[Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
+#### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
 #### Extra Resources
 * Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
 * Intro to Python: https://codingbat.com/python
 * Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
-
 
 ### Week 3 (10/13-10/19)
 #### [Workshop 2 (Understanding EEG Signals)](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_)
@@ -74,6 +62,21 @@ These are links to Google folders containing workshop content like Google slides
 
 ### Week 10 (12/01-12/07) Good Luck on Finals!
 </p>
+
+---
+
+## Old Workshops
+### [Fall 2023 Workshops (Old)](FallWorkshops.md)
+
+### [Winter 2024 Workshops (Old)](WinterWorkshops.md)
+
+### [Spring 2024 Workshops (Old)](SpringWorkshops.md)
+
+### [Fall 2024 Workshops (Old)](FallWorkshops24.md)
+
+### [Winter 2025 Workshops (Old)](WinterWorkshops25.md)
+
+### [Spring 2025 Workshops (Old)](SpringWorkshops25.md)
 <footer>
     <div id = "images">
         <a href="https://cruxucla.com">

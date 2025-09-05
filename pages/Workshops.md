@@ -41,21 +41,30 @@
 #### [Workshop 4 (Preprocessing II)](https://drive.google.com/drive/folders/1EtWsmANlcejFBEGIQkZxH2JP-KG2Biiq)
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
+* artifact rejection: https://www.sciencedirect.com/science/article/pii/S1746809423004652
+* ICA in EEG Artifact Rejection: https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/
+* Process data using EEG lab: https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html
 
 ### Week 6 (11/03-11/09)
 #### [Workshop 5 (Feature Extraction)](https://drive.google.com/drive/folders/1Ip8U5egS2HJuVUzGQ3DPyeeU94StdDtA)
 * Workshop 5 provided a hands-on walk-through of the P300 Speller project, covering feature extraction in BCI, visualization of raw EEG channels, applying filters, epoching and averaging the data, and extracting features for analysis.
 #### Extra Resources
+* EEG signal extraction trends: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full
 
 ### Week 7 (11/10-11/16)
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
 * Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
 #### Extra Resources
+* About Classifiers: https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/
+* Classification using KNN, SVM, MLP, NB: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full
+* Kernel: https://www.sciencedirect.com/science/article/pii/S0306452223002531
 
 ### Week 8 (11/17-11/23)
 #### [Workshop 7 (Evaluation and Visualization)](https://drive.google.com/drive/folders/1afIG8-E0j8uGzQDHwKYVeX7uHJsg1DYJ)
 * Workshop 7 focused on model evaluation and result visualization, discussing why these steps are essential, the concept of accuracy, the use of confusion matrices, and methods for visualizing model performance.
 #### Extra Resources
+* Confusion Matrices: https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/
+* Visualization of Brainwaves: https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices
 
 ### Week 9 (11/24-11/30) Final Showcase + Team Pathways + BCI Team Signups
 

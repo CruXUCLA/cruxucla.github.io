@@ -12,9 +12,10 @@
 
 ## Fall 2025 Workshops
 
-### Week 1 (09/29-10/05) Info Session!
+### Week 1, Kaplan A51, 6:30pm  (09/29-10/05)
+* Info Session! 
 
-### Week 2 (10/06-10/12) 
+### Week 2 (10/06-10/12), Kaplan A51, 6:30pm
 #### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
 #### Extra Resources
@@ -22,7 +23,7 @@
 * Intro to Python: https://codingbat.com/python
 * Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
 
-### Week 3 (10/13-10/19)
+### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### [Workshop 2 (Understanding EEG Signals)](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
 #### Extra Resources
@@ -30,14 +31,14 @@
 * Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
 * MNE Documentation: https://mne.tools/stable/index.html
 
-### Week 4 (10/20-10/26)
+### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### [Workshop 3 (Preprocessing I)](https://drive.google.com/drive/folders/1D3VE93yXh4-OCX0R4xAN8Yl_BKmILfLT)
 * Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, and notch.
 #### Extra Resources
 * Electroencephalography Signal Processing: A Comprehensive Review and Analysis of Methods and Techniques: https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/
 * More about Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 
-### Week 5 (10/27-11/02)
+### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### [Workshop 4 (Preprocessing II)](https://drive.google.com/drive/folders/1EtWsmANlcejFBEGIQkZxH2JP-KG2Biiq)
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
@@ -45,13 +46,13 @@
 * ICA in EEG Artifact Rejection: https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/
 * Process data using EEG lab: https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html
 
-### Week 6 (11/03-11/09)
+### Week 6, Boelter 3400, 7:00pm (11/03-11/09)
 #### [Workshop 5 (Feature Extraction)](https://drive.google.com/drive/folders/1Ip8U5egS2HJuVUzGQ3DPyeeU94StdDtA)
 * Workshop 5 provided a hands-on walk-through of the P300 Speller project, covering feature extraction in BCI, visualization of raw EEG channels, applying filters, epoching and averaging the data, and extracting features for analysis.
 #### Extra Resources
 * EEG signal extraction trends: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full
 
-### Week 7 (11/10-11/16)
+### Week 7, Kaplan A51, 6:30pm (11/10-11/16)
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
 * Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
 #### Extra Resources
@@ -59,14 +60,15 @@
 * Classification using KNN, SVM, MLP, NB: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full
 * Kernel: https://www.sciencedirect.com/science/article/pii/S0306452223002531
 
-### Week 8 (11/17-11/23)
+### Week 8, Boelter 3400, 7:00pm (11/17-11/23)
 #### [Workshop 7 (Evaluation and Visualization)](https://drive.google.com/drive/folders/1afIG8-E0j8uGzQDHwKYVeX7uHJsg1DYJ)
 * Workshop 7 focused on model evaluation and result visualization, discussing why these steps are essential, the concept of accuracy, the use of confusion matrices, and methods for visualizing model performance.
 #### Extra Resources
 * Confusion Matrices: https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/
 * Visualization of Brainwaves: https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices
 
-### Week 9 (11/24-11/30) Final Showcase + Team Pathways + BCI Team Signups
+### Week 9, Kaplan A51, 6:30pm (11/24-11/30)
+#### Final Showcase + Team Pathways + BCI Team Signups
 
 ### Week 10 (12/01-12/07) Good Luck on Finals!
 

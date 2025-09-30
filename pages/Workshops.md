@@ -86,7 +86,7 @@
 ### Week 10 (12/01-12/07) Good Luck on Finals!
 
 ---
-
+<!--
 ## Old Workshops
 ### [Fall 2023 Workshops (Old)](FallWorkshops.md)
 
@@ -99,6 +99,8 @@
 ### [Winter 2025 Workshops (Old)](WinterWorkshops25.md)
 
 ### [Spring 2025 Workshops (Old)](SpringWorkshops25.md)
+
+-->
 <footer>
     <div id = "images">
         <a href="https://cruxucla.com">

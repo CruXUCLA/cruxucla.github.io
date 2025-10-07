@@ -16,15 +16,13 @@
 * Info Session! 
 
 ### Week 2, Kaplan A51, 6:30pm (10/06-10/12)
-#### Workshop 1 (Introduction to Neurotech)
-<!--
 #### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
 #### Extra Resources
 * Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
 * Intro to Python: https://codingbat.com/python
 * Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
--->
+
 ### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### Workshop 2 (Understanding EEG Signals)
 <!--

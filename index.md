@@ -7,8 +7,7 @@
 <link rel="stylesheet" href="css/styles.css">
 
 
-#### [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform)
-#### [Advanced Opportunities Application](https://docs.google.com/forms/d/e/1FAIpQLScn_2sMu0PWEum1i8x_MDHutq1z-u6rk6qzLqFzvGA4gId0Ow/viewform)
+## [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform) --&-- [Advanced Opportunities Application](https://docs.google.com/forms/d/e/1FAIpQLScn_2sMu0PWEum1i8x_MDHutq1z-u6rk6qzLqFzvGA4gId0Ow/viewform)  
 
 ### [Workshop Resources](pages/Workshops.md)
 Calendar for upcoming workshops and links to other resources

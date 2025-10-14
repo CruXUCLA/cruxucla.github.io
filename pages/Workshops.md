@@ -28,7 +28,7 @@
 
 ### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### Workshop 2 (Understanding EEG Signals)
-[Slides](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [ds005420](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
+[Slides](https://docs.google.com/presentation/d/10v_NFZSbXAis4zueTsFHGJwaRjdr485HYIPxY1qFBQI/edit) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [ds005420](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
 ##### Extra Resources
 * EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement

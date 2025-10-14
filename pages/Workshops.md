@@ -8,12 +8,13 @@
   
 # Workshops
 - These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
-- Previous workshops links are moved to the bottom of the page
-
+<!-- - Previous workshops links are moved to the bottom of the page
+-->
 ## Fall 2025 Workshops
 
 ### Week 1, Kaplan A51, 6:30pm  (09/29-10/05)
 * Info Session! 
+---
 
 ### Week 2, Kaplan A51, 6:30pm (10/06-10/12)
 #### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
@@ -22,17 +23,16 @@
 * Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
 * Intro to Python: https://codingbat.com/python
 * Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
-
+---
 ### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### Workshop 2 (Understanding EEG Signals)
-<!--
-#### [Workshop 2 (Understanding EEG Signals)](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_)
+[Slides](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
-#### Extra Resources
+##### Extra Resources
 * EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
 * Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
 * MNE Documentation: https://mne.tools/stable/index.html
--->
+---
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### Workshop 3 (Preprocessing I)
 <!--

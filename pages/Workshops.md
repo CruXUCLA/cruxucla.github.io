@@ -30,7 +30,7 @@
 #### Workshop 2 (Understanding EEG Signals)
 [Slides](https://docs.google.com/presentation/d/10v_NFZSbXAis4zueTsFHGJwaRjdr485HYIPxY1qFBQI/edit) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [dataset](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
-##### Extra Resources
+#### Extra Resources
 * EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
 * Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
 * MNE Documentation: https://mne.tools/stable/index.html

@@ -32,7 +32,9 @@
 * EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
 * Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
 * MNE Documentation: https://mne.tools/stable/index.html
+
 ---
+
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### Workshop 3 (Preprocessing I)
 <!--

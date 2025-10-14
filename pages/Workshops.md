@@ -23,7 +23,9 @@
 * Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
 * Intro to Python: https://codingbat.com/python
 * Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
+
 ---
+
 ### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### Workshop 2 (Understanding EEG Signals)
 [Slides](https://drive.google.com/drive/folders/1beOsy27og9hR1JBtVXKDrWlrjP-PnO1_) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe)

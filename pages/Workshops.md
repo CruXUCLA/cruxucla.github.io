@@ -5,11 +5,12 @@
 </head>
 
 <link rel="stylesheet" href="../css/styles.css">
-  
+<!--  
 # Workshops
-- These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
-<!-- - Previous workshops links are moved to the bottom of the page
+These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
+Previous workshops links are moved to the bottom of the page
 -->
+
 ## Fall 2025 Workshops
 
 ### Week 1, Kaplan A51, 6:30pm  (09/29-10/05)
@@ -23,9 +24,9 @@
 -->
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
 #### Extra Resources
-* Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
-* Intro to Python: https://codingbat.com/python
-* Major Neurotech Companies: https://singer.gatech.edu/neurotech-list/
+* [Brain Facts from NIH](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain)
+* [Learn Python Basics with CodingBat](https://codingbat.com/python)
+* [Major Neurotech Companies, Research Institutes, Non-Profit](https://singer.gatech.edu/neurotech-list/)
 
 ---
 
@@ -34,21 +35,23 @@
 [Slides](https://docs.google.com/presentation/d/10v_NFZSbXAis4zueTsFHGJwaRjdr485HYIPxY1qFBQI/edit) ---  [Colab (EEG Signals)](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [Colab Solutions](https://colab.research.google.com/drive/1r4dpCOwxuY9naYYAu78S-t3JsO191o91) --- [Dataset](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
 #### Extra Resources
-* EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
-* Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
-* MNE Documentation: https://mne.tools/stable/index.html
-* OpenNeuro: https://openneuro.org/
+* [Understanding the 10-20 System of EEG Electrode Placement](https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement)
+* [Limitations of Non-Invasive EEG Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/)
+* [Python MNE Documentation](https://mne.tools/stable/index.html)
+* [OpenNeuro: open-access neuroimaging data](https://openneuro.org/)
 
 ---
 
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### Workshop 3 (Preprocessing I)
 <!--
-#### [Workshop 3 (Preprocessing I)](https://drive.google.com/drive/folders/1D3VE93yXh4-OCX0R4xAN8Yl_BKmILfLT)
+[Slides](https://docs.google.com/presentation/d/1-8MFUPVJXO_A50TOiVWnNQFNDl3isVCmY6HFv5M_BGw/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing I)](https://colab.research.google.com/drive/1Mkw2emfsdXHjmpx5VNfuHAIGvtnWNVXh)
 * Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, and notch.
 #### Extra Resources
-* Electroencephalography Signal Processing: A Comprehensive Review and Analysis of Methods and Techniques: https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/
-* More about Fourier Transform: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+* [Methods and Technique of EEG signal Processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/)
+* [More about Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+
+---
 -->
 ### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### Workshop 4 (Preprocessing II)

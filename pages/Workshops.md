@@ -17,7 +17,10 @@
 ---
 
 ### Week 2, Kaplan A51, 6:30pm (10/06-10/12)
-#### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
+#### Workshop 1
+[Slides](https://docs.google.com/presentation/d/1-kS1YTYuHV_ZC-fp3p3CubczmMqi0L3THUXr7cLzyBw/edit) --- [Colab (Python Basics for Crux)](https://colab.research.google.com/drive/12CDBGRV8Ye5mGcqwhO6zEoReQcBfXSb1)
+<!-- #### [Workshop 1 (Introduction to Neurotech)](https://drive.google.com/drive/folders/1G9DqVllTts4kL7drruCKLmHmHdAYo4Tc)
+-->
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. It also included a primer on Python basics useful for upcoming Crux projects.
 #### Extra Resources
 * Brain Facts: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
@@ -28,13 +31,14 @@
 
 ### Week 3, Kaplan A51, 6:30pm (10/13-10/19)
 #### Workshop 2 (Understanding EEG Signals)
-[Slides](https://docs.google.com/presentation/d/10v_NFZSbXAis4zueTsFHGJwaRjdr485HYIPxY1qFBQI/edit) ---  [Google Colab](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [Colab Solutions](https://colab.research.google.com/drive/1r4dpCOwxuY9naYYAu78S-t3JsO191o91) --- [dataset](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
+[Slides](https://docs.google.com/presentation/d/10v_NFZSbXAis4zueTsFHGJwaRjdr485HYIPxY1qFBQI/edit) ---  [Colab (EEG Signals)](https://colab.research.google.com/drive/1N3H5vWYM1Z9OcYCB4cBB9cSZL_pMLcPe) --- [Colab Solutions](https://colab.research.google.com/drive/1r4dpCOwxuY9naYYAu78S-t3JsO191o91) --- [Dataset](https://drive.google.com/drive/folders/12n-s7TkGlhuxJ8gyHf5PS1QwiasdRYfE)
 * Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the MNE Python toolbox.
 #### Extra Resources
 * EEG Headset Electrodes: https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement
 * Limitations of Non-Invasive EEG Data: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/
 * MNE Documentation: https://mne.tools/stable/index.html
-* OpenNeuro: Open: https://openneuro.org/
+* OpenNeuro: https://openneuro.org/
+
 ---
 
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)

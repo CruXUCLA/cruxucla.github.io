@@ -42,15 +42,14 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### Workshop 3 (Preprocessing I)
-<!--
 [Slides](https://docs.google.com/presentation/d/1-8MFUPVJXO_A50TOiVWnNQFNDl3isVCmY6HFv5M_BGw/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing I)](https://colab.research.google.com/drive/1Mkw2emfsdXHjmpx5VNfuHAIGvtnWNVXh)
-* Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, and notch.
+* Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, notch, etc.
 #### Extra Resources
 * [Methods and Technique of EEG signal Processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/)
 * [More about Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 ---
--->
+
 ### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### Workshop 4 (Preprocessing II)
 <!--

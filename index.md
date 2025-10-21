@@ -5,8 +5,9 @@
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 <link rel="stylesheet" href="css/styles.css">
+---
 
-### [Fall 2025 Syllabus](https://docs.google.com/document/d/11Nb1yngbm7Z6OMeT76Mnb7gpitg5yMUB)
+### [Fall 2025 Syllabus](https://docs.google.com/document/d/11Nb1yngbm7Z6OMeT76Mnb7gpitg5yMUB) --- [Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3gehffuht-LOYJezV9xTmzOyzj~dcpxg)
 
 <!--
 ## [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform) --&-- [Advanced Opportunities Application](https://docs.google.com/forms/d/e/1FAIpQLScn_2sMu0PWEum1i8x_MDHutq1z-u6rk6qzLqFzvGA4gId0Ow/viewform)  

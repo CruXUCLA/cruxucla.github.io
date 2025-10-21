@@ -42,7 +42,7 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 4, Kaplan A51, 6:30pm (10/20-10/26)
 #### Workshop 3 (Preprocessing I)
-[Slides](https://docs.google.com/presentation/d/1-8MFUPVJXO_A50TOiVWnNQFNDl3isVCmY6HFv5M_BGw/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing I)](https://colab.research.google.com/drive/1Mkw2emfsdXHjmpx5VNfuHAIGvtnWNVXh)
+[Slides](https://docs.google.com/presentation/d/1-8MFUPVJXO_A50TOiVWnNQFNDl3isVCmY6HFv5M_BGw/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing I)](https://colab.research.google.com/drive/1Mkw2emfsdXHjmpx5VNfuHAIGvtnWNVXh) --- [Colab Solutions](https://colab.research.google.com/drive/1V198Xoo69NbM9ppWyKTws8_2BTSRKZMw) --- (Dataset same as last week)
 * Workshop 3 introduced preprocessing techniques, including Fourier transforms, frequency analysis, common preprocessing steps, and the use of filters such as low-pass, high-pass, band-pass, notch, etc.
 #### Extra Resources
 * [Methods and Technique of EEG signal Processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/)
@@ -57,9 +57,9 @@ Previous workshops links are moved to the bottom of the page
 #### [Workshop 4 (Preprocessing II)](https://drive.google.com/drive/folders/1EtWsmANlcejFBEGIQkZxH2JP-KG2Biiq)
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
-* artifact rejection: https://www.sciencedirect.com/science/article/pii/S1746809423004652
-* ICA in EEG Artifact Rejection: https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/
-* Process data using EEG lab: https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html
+* [artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)
+* [ICA in EEG Artifact Rejection](https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/)
+* [Process data using EEG lab](https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html)
 -->
 ### Week 6, Boelter 3400, 7:00pm (11/03-11/09)
 #### Workshop 5 (Feature Extraction)

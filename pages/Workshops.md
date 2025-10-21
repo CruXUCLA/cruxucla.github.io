@@ -47,6 +47,7 @@ Previous workshops links are moved to the bottom of the page
 #### Extra Resources
 * [Methods and Technique of EEG signal Processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10385593/)
 * [More about Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+* [Visual Explanation of Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ---
 

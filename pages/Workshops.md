@@ -53,7 +53,9 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### Workshop 4 (Preprocessing II)
-[Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](http://colab.research.google.com/drive/1FNxwaGY2JhZyz7tTKgmaB1XoBFqcGq9E) --- [Colab Solutions](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc)
+[Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](http://colab.research.google.com/drive/1FNxwaGY2JhZyz7tTKgmaB1XoBFqcGq9E)
+<!-- --- [Colab Solutions](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc) 
+-->
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
 * [artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)

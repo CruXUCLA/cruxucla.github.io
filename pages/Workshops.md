@@ -53,14 +53,15 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### Workshop 4 (Preprocessing II)
-<!--
-#### [Workshop 4 (Preprocessing II)](https://drive.google.com/drive/folders/1EtWsmANlcejFBEGIQkZxH2JP-KG2Biiq)
+[Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc)
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
 * [artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)
 * [ICA in EEG Artifact Rejection](https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/)
 * [Process data using EEG lab](https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html)
--->
+
+---
+
 ### Week 6, Boelter 3400, 7:00pm (11/03-11/09)
 #### Workshop 5 (Feature Extraction)
 <!--

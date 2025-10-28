@@ -53,9 +53,7 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 5, Kaplan A51, 6:30pm (10/27-11/02)
 #### Workshop 4 (Preprocessing II)
-[Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](http://colab.research.google.com/drive/1FNxwaGY2JhZyz7tTKgmaB1XoBFqcGq9E)
-<!-- --- [Colab Solutions](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc) 
--->
+[Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](http://colab.research.google.com/drive/1FNxwaGY2JhZyz7tTKgmaB1XoBFqcGq9E) --- [Colab Solutions](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc) 
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
 * [artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)
@@ -70,7 +68,9 @@ Previous workshops links are moved to the bottom of the page
 #### [Workshop 5 (Feature Extraction)](https://drive.google.com/drive/folders/1Ip8U5egS2HJuVUzGQ3DPyeeU94StdDtA)
 * Workshop 5 provided a hands-on walk-through of the P300 Speller project, covering feature extraction in BCI, visualization of raw EEG channels, applying filters, epoching and averaging the data, and extracting features for analysis.
 #### Extra Resources
-* EEG signal extraction trends: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full
+* [EEG signal extraction trends](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full)
+* [Various Feature Extraction Methods on a Motor Imagery Based Brain Computer Interface System] (https://pmc.ncbi.nlm.nih.gov/articles/PMC4892326/)
+* [EEG-Feature-Extraction-Toolbox](https://github.com/JingweiToo/EEG-Feature-Extraction-Toolbox)
 -->
 ### Week 7, Kaplan A51, 6:30pm (11/10-11/16)
 #### Workshop 6 (Classification Models)
@@ -78,7 +78,7 @@ Previous workshops links are moved to the bottom of the page
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
 * Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
 #### Extra Resources
-* About Classifiers: https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/
+* [About Classifiers](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/)
 * Classification using KNN, SVM, MLP, NB: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full
 * Kernel: https://www.sciencedirect.com/science/article/pii/S0306452223002531
 -->

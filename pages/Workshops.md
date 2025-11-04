@@ -56,7 +56,7 @@ Previous workshops links are moved to the bottom of the page
 [Slides](https://docs.google.com/presentation/d/1yTglPLBYOEdpBo0CAyH56aDHCGqd1VmBEJvEwyWz6co/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Preprocessing II)](http://colab.research.google.com/drive/1FNxwaGY2JhZyz7tTKgmaB1XoBFqcGq9E) --- [Colab Solutions](https://colab.research.google.com/drive/1haQgWOwfKtkvW0sjJlVURCiWCrQBTrRc) 
 * Workshop 4 introduced key EEG analysis techniques, covering epochs and epoch averaging, common artifacts, and methods for artifact rejection using Independent Component Analysis (ICA) and thresholding.
 #### Extra Resources
-* [artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)
+* [Artifact rejection](https://www.sciencedirect.com/science/article/pii/S1746809423004652)
 * [ICA in EEG Artifact Rejection](https://pmc.ncbi.nlm.nih.gov/articles/PMC2895624/)
 * [Process data using EEG lab](https://eeglab.org/tutorials/07_Extract_epochs/Extracting_Data_Epochs.html)
 
@@ -64,14 +64,15 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 6, Boelter 3400, 7:00pm (11/03-11/09)
 #### Workshop 5 (Feature Extraction)
-<!--
-#### [Workshop 5 (Feature Extraction)](https://drive.google.com/drive/folders/1Ip8U5egS2HJuVUzGQ3DPyeeU94StdDtA)
-* Workshop 5 provided a hands-on walk-through of the P300 Speller project, covering feature extraction in BCI, visualization of raw EEG channels, applying filters, epoching and averaging the data, and extracting features for analysis.
+[Slides](https://docs.google.com/presentation/d/1wgPR-sjUVgEjQvneU1d0iqwly4i0cxaNCk3DClDeKPc/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab(Feature Extraction)](https://colab.research.google.com/drive/1mj3qmPwvfTjINvV9f01DqX62ADmp-eT-)
+* Workshop 5 introduced feature extraction - how to transform raw EEG signals into meaningful inputs. It covered time, frequency, and spatial-domain features, along with the P300 mechanism and band power examples.
 #### Extra Resources
 * [EEG signal extraction trends](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full)
-* [Various Feature Extraction Methods on a Motor Imagery Based Brain Computer Interface System] (https://pmc.ncbi.nlm.nih.gov/articles/PMC4892326/)
+* [Various Feature Extraction Methods on a Motor Imagery Based Brain Computer Interface System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4892326/)
 * [EEG-Feature-Extraction-Toolbox](https://github.com/JingweiToo/EEG-Feature-Extraction-Toolbox)
--->
+
+---
+
 ### Week 7, Kaplan A51, 6:30pm (11/10-11/16)
 #### Workshop 6 (Classification Models)
 <!--

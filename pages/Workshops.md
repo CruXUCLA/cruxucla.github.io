@@ -64,7 +64,7 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 6, Boelter 3400, 7:00pm (11/03-11/09)
 #### Workshop 5 (Feature Extraction)
-[Slides](https://docs.google.com/presentation/d/1wgPR-sjUVgEjQvneU1d0iqwly4i0cxaNCk3DClDeKPc/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab(Feature Extraction)](https://colab.research.google.com/drive/1mj3qmPwvfTjINvV9f01DqX62ADmp-eT-)
+[Slides](https://docs.google.com/presentation/d/1wgPR-sjUVgEjQvneU1d0iqwly4i0cxaNCk3DClDeKPc/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Feature Extraction)](https://colab.research.google.com/drive/1EfRk5EMLEBdU78KOmENSsQX-yaUWhmRX)
 * Workshop 5 introduced feature extraction - how to transform raw EEG signals into meaningful inputs. It covered time, frequency, and spatial-domain features, along with the P300 mechanism and band power examples.
 #### Extra Resources
 * [EEG signal extraction trends](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.1072801/full)

@@ -76,12 +76,13 @@ Previous workshops links are moved to the bottom of the page
 ### Week 7, Kaplan A51, 6:30pm (11/10-11/16)
 #### Workshop 6 (Classification Models)
 <!--
+[Slides](https://docs.google.com/presentation/d/16gEeA2u82_ePAzdWhBFW44PzgbgCME-gxZ5A_OxM2zY/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Colab (Classification Models)]()
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
 * Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
 #### Extra Resources
 * [About Classifiers](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/)
-* Classification using KNN, SVM, MLP, NB: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full
-* Kernel: https://www.sciencedirect.com/science/article/pii/S0306452223002531
+* [Classification using KNN, SVM, MLP, NB](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full)
+* [Kernel](https://www.sciencedirect.com/science/article/pii/S0306452223002531)
 -->
 ### Week 8, Boelter 3400, 7:00pm (11/17-11/23)
 #### Workshop 7 (Evaluation and Visualization)

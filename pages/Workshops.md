@@ -79,6 +79,7 @@ Previous workshops links are moved to the bottom of the page
 #### [Workshop 6 (Classification Models)](https://drive.google.com/drive/folders/1gfCR0hW4CbvX21GGyeo9lJ1KM7_Obmh9)
 * Workshop 6 introduced classification methods in BCI, covering common classifiers such as KNN, SVM, and neural networks, along with an overview of kernel-based classification approaches.
 #### Extra Resources
+* [3Blue1Brown Neural Networks](https://www.3blue1brown.com/topics/neural-networks)
 * [About Classifiers](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/)
 * [Classification using KNN, SVM, MLP, NB](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00103/full)
 * [Kernel](https://www.sciencedirect.com/science/article/pii/S0306452223002531)

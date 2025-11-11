@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="css/styles.css">
 ---
 
+## [BCI Team Application Form (Due by Wednesday Nov 19th)](https://forms.gle/zRHpSRcs4GSdsCcXA)
+
 ### [Fall 2025 Syllabus](https://docs.google.com/document/d/11Nb1yngbm7Z6OMeT76Mnb7gpitg5yMUB) --- [Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3gehffuht-LOYJezV9xTmzOyzj~dcpxg) --- [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform)
 
 ### [Workshop Resources](pages/Workshops.md)

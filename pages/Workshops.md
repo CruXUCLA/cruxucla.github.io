@@ -87,7 +87,7 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 8, Boelter 3400, 7:00pm (11/17-11/23)
 #### Workshop 7 (Evaluation and Visualization)
-[Slides](https://docs.google.com/presentation/d/11TeEWIs_K6AAuor3dfWlTHYLt0uzJyE65mriwkBAb8w) 
+[Slides](https://docs.google.com/presentation/d/11TeEWIs_K6AAuor3dfWlTHYLt0uzJyE65mriwkBAb8w) --- [Colab Solutions](https://colab.research.google.com/drive/1N1EC6yhMP4lMBkLW9wIq7KisujAUZemq)
 * Workshop 7 focused on model evaluation and result visualization, discussing why these steps are essential, the concept of accuracy, the use of confusion matrices, and methods for visualizing model performance.
 #### Extra Resources
 * [Confusion Matrices](https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning)

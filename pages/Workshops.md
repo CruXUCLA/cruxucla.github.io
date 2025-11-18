@@ -88,13 +88,16 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week 8, Boelter 3400, 7:00pm (11/17-11/23)
 #### Workshop 7 (Evaluation and Visualization)
-<!--
+[Slides](https://docs.google.com/presentation/d/11TeEWIs_K6AAuor3dfWlTHYLt0uzJyE65mriwkBAb8w) 
+<!-- 
+[Colab (Evaluation and Visualization) Solutions]
 #### [Workshop 7 (Evaluation and Visualization)](https://drive.google.com/drive/folders/1afIG8-E0j8uGzQDHwKYVeX7uHJsg1DYJ)
+-->
 * Workshop 7 focused on model evaluation and result visualization, discussing why these steps are essential, the concept of accuracy, the use of confusion matrices, and methods for visualizing model performance.
 #### Extra Resources
-* Confusion Matrices: https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/
-* Visualization of Brainwaves: https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices
--->
+* [Confusion Matrices](https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning)
+* [Visualization of Brainwaves](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
+
 ### Week 9, Kaplan A51, 6:30pm (11/24-11/30)
 #### Final Showcase + Team Pathways + BCI Team Signups
 ### Week 10 (12/01-12/07) Good Luck on Finals!

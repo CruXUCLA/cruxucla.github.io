@@ -96,7 +96,7 @@ Previous workshops links are moved to the bottom of the page
 ### Week 9, Kaplan A51, 6:30pm (11/24-11/30)
 #### Office Hours
 ### Week 10 (12/01-12/07)
-#### BCI Team Social!!!
+#### BCI Team Decisions and Social!!!
 
 ---
 <!--

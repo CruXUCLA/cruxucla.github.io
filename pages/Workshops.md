@@ -94,7 +94,7 @@ Previous workshops links are moved to the bottom of the page
 * [Visualization of Brainwaves](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
 
 ### Week 9, Kaplan A51, 6:30pm (11/24-11/30)
-#### Final Showcase + Team Pathways + BCI Team Signups
+#### Office Hours
 ### Week 10 (12/01-12/07) Good Luck on Finals!
 
 ---

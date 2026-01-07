@@ -7,14 +7,15 @@
 <link rel="stylesheet" href="css/styles.css">
 ---
 
-### [Fall 2025 Syllabus](https://docs.google.com/document/d/11Nb1yngbm7Z6OMeT76Mnb7gpitg5yMUB) --- [Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3l41ojx79-YsX8zbO3O2JM_S6IGaEUkA) 
+[Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3l41ojx79-YsX8zbO3O2JM_S6IGaEUkA) 
 
 <!--
 [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform)
 -->
-
-### [Workshop Resources](pages/Workshops.md)
+### [Winter Schedules](pages/WinterWorshops26.md)
 Calendar for upcoming workshops and links to other resources
+
+### [Fall Workshop Resources](pages/Workshops.md)
 
 ### [Campuswire Forum](https://campuswire.com/p/G928C6B14)
 Forum to ask questions. The join code is 6679

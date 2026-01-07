@@ -12,7 +12,7 @@
 <!--
 [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform)
 -->
-### [Winter Schedules](pages/WinterWorshops26.md)
+### [Winter Schedules](pages/WinterWorkshops26.md)
 Calendar for upcoming workshops and links to other resources
 
 ### [Fall Workshop Resources](pages/Workshops.md)

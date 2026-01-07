@@ -11,7 +11,7 @@ These are links to Google folders containing workshop content like Google slides
 Previous workshops links are moved to the bottom of the page
 -->
 
-## Fall 2025 Workshops
+## Fall 2025 Workshops ([Fall 2025 Syllabus](https://docs.google.com/document/d/11Nb1yngbm7Z6OMeT76Mnb7gpitg5yMUB))
 
 ### Week 1, Kaplan A51, 6:30pm  (09/29-10/05)
 #### Info Session! 

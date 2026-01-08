@@ -19,9 +19,14 @@ Meet with your team!
 
 ### Week 2, Royce 156, 6:30pm (01/12-01/18)
 #### Literature Review & Project Proposal (Team leads: OpenBCI Headset Tutorial)
+
+<!--
+
 [Project Proposal Slides]() --- [Literature Review Template]() --- [Project Proposal Template]()
 [OpenBCI Tutorial]()
 [Literature Review Submission(Due 01/16)]() --- [Project Proposal Submission(Due 01/23)]()
+
+-->
 
 ---
 
@@ -31,7 +36,7 @@ Meet with your team!
 ---
 
 ### Week 4, Royce 156, 6:30pm (01/26-02/01)
-#### Advanced Workshop 1 ()
+#### Advanced Workshop 1 (Neural Networks: Types and Applications)
 
 ---
 
@@ -41,7 +46,7 @@ Meet with your team!
 ---
 
 ### Week 6, Boelter 3400, 7:00pm (02/09-02/15)
-#### Advanced Workshop 2 ()
+#### Advanced Workshop 2 (EMGs: muscles talk)
 ---
 
 ### Week 7, Kaplan A51, 6:30pm (02/16-02/22)

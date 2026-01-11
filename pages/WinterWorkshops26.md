@@ -14,16 +14,17 @@ Previous workshops links are moved to the bottom of the page
 ## Winter 2025 Workshop Schedules
 
 ### Week 1
-Meet with your team!
+Meet with your team! 
 ---
 
 ### Week 2, Royce 156, 6:30pm (01/12-01/18)
 #### Literature Review & Project Proposal (Team leads: OpenBCI Headset Tutorial)
 
+[Project Proposal Slides](https://docs.google.com/presentation/d/1iqc9uUEwZR4kq9aYdmYOlaLPjaZGQ_90a6-au20rWDY) --- [OpenBCI Tutorial](https://docs.google.com/document/d/1EJKePW7XZbLSwE-G4-GU2WaSTIVtnDALw4s6gcE7JFk)
+
 <!--
 
-[Project Proposal Slides]() --- [Literature Review Template]() --- [Project Proposal Template]()
-[OpenBCI Tutorial]()
+[Literature Review Template]() --- [Project Proposal Template]()
 [Literature Review Submission(Due 01/16)]() --- [Project Proposal Submission(Due 01/23)]()
 
 -->

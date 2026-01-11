@@ -31,7 +31,7 @@ Meet with your team!
 
 ---
 
-### Week 3, Royce 156, 6:30pm (01/19-01/25)
+### Week 3 (01/19-01/25)
 #### MLK Holiday! Remember to submit your project proposal!
 
 ---
@@ -46,20 +46,20 @@ Meet with your team!
 
 ---
 
-### Week 6, Boelter 3400, 7:00pm (02/09-02/15)
+### Week 6, Royce 156, 6:30pm (02/09-02/15)
 #### Advanced Workshop 2 (EMGs: muscles talk)
 ---
 
-### Week 7, Kaplan A51, 6:30pm (02/16-02/22)
+### Week 7 (02/16-02/22)
 #### Presidents’ Day holiday
 
-### Week 8, Boelter 3400, 7:00pm (02/23-03/01)
+### Week 8, Royce 156, 6:30pm (02/23-03/01)
 #### Office Hour
 
 ### Week 9, Royce 156, 6:30pm (03/02-03/08)
 #### Project Presentations!
 
-### Week 10 (03/09-03/15)
+### Week 10, Royce 156, 6:30pm (03/09-03/15)
 #### Project Presentations!
 
 

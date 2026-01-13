@@ -22,12 +22,14 @@ Meet with your team!
 
 [Project Proposal Slides](https://docs.google.com/presentation/d/1iqc9uUEwZR4kq9aYdmYOlaLPjaZGQ_90a6-au20rWDY) --- [OpenBCI Tutorial](https://docs.google.com/document/d/1EJKePW7XZbLSwE-G4-GU2WaSTIVtnDALw4s6gcE7JFk)
 
-<!--
+**Deliverables:**
 
-[Literature Review Template]() --- [Project Proposal Template]()
-[Literature Review Submission(Due 01/16)]() --- [Project Proposal Submission(Due 01/23)]()
+Literature Review (Due Jan 18th)
 
--->
+[Project Proposal Template (Due Jan 25th)](https://docs.google.com/document/d/1uOtPxpZvWu9rv3ck6u6Ra-m3ys4yt08G1Mc3gMeqZLQ)
+
+Data Processing Pipeline (Due Feb 1st)
+
 
 ---
 
@@ -52,12 +54,15 @@ Meet with your team!
 
 ### Week 7 (02/16-02/22)
 #### Presidents’ Day holiday
+---
 
 ### Week 8, Royce 156, 6:30pm (02/23-03/01)
 #### Office Hour
+---
 
 ### Week 9, Royce 156, 6:30pm (03/02-03/08)
 #### Project Presentations!
+---
 
 ### Week 10, Royce 156, 6:30pm (03/09-03/15)
 #### Project Presentations!

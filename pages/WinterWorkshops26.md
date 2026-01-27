@@ -39,7 +39,7 @@ Data Processing Pipeline (Due Feb 1st)
 ---
 
 ### Week 4, Royce 156, 6:30pm (01/26-02/01)
-#### Advanced Workshop 1 (Understanding Different Neural Networks)
+#### Advanced Workshop 1 (Neural Networks: Types and Applications)
 [Slides](https://docs.google.com/presentation/d/1R_-Jq_pvYOq4f6NwoQmqvl6iInC7pNL8gn7cEnXDeSE/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95)
 
 ---

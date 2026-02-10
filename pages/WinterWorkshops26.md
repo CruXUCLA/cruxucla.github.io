@@ -50,7 +50,8 @@ Data Processing Pipeline (Due Feb 1st)
 ---
 
 ### Week 6, Royce 156, 6:30pm (02/09-02/15)
-#### Advanced Workshop 2 (EMGs: muscles talk)
+#### Advanced Workshop 2 (EMGs)
+[Slides](https://docs.google.com/presentation/d/1TjdZoRJtreEL7PUbq8DUsyw2x_PSyXGJbWt1p9YXmZI/edit)
 ---
 
 ### Week 7 (02/16-02/22)

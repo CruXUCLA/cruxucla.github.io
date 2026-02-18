@@ -8,11 +8,12 @@
 ---
 
 [Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3l41ojx79-YsX8zbO3O2JM_S6IGaEUkA) 
+[OpenBCI Tutorial](https://docs.google.com/document/d/1EJKePW7XZbLSwE-G4-GU2WaSTIVtnDALw4s6gcE7JFk/edit)
 
 <!--
 [Member Application](https://docs.google.com/forms/d/e/1FAIpQLSf-1g-wc9BOBIt5ZXhHEH3W_aNDX7KOcUajtyGMdGypa6fKAg/viewform)
 -->
-### [Winter Schedules](pages/WinterWorkshops26.md)
+### [Winter Workshop Resources](pages/WinterWorkshops26.md)
 Calendar for upcoming workshops and links to other resources
 
 ### [Fall Workshop Resources](pages/Workshops.md)

@@ -18,6 +18,8 @@ Calendar for upcoming workshops and links to other resources
 
 ### [Fall Workshop Resources](pages/Workshops.md)
 
+### [Past Competition Team Projects](pages/Projects.md)
+
 ### [Campuswire Forum](https://campuswire.com/p/G928C6B14)
 Forum to ask questions. The join code is 6679
 

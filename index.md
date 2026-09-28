@@ -21,6 +21,7 @@ Calendar for upcoming workshops and links to other resources
 -->
 
 ### [Fall Workshop Resources](pages/Workshops.md)
+### [Fall Wokshop Syllabus](https://docs.google.com/document/d/1Es6mllEJnhuf24_hkr8518D3T1i1r1kY/edit?usp=sharing&ouid=113041457492616466202&rtpof=true&sd=true)
 
 ### [Past Competition Team Projects](pages/Projects.md)
 

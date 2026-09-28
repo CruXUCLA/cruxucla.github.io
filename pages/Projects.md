@@ -13,6 +13,9 @@
 ### [EE-JAMS Classifier](http://github.com/BenFalken/ntx_project)
 - "This BCI binary-classifies emotions along the dimensions of valence, arousal, and dominance."
 
+### [NeuroKeys](https://youtu.be/ZwZof-_yDNs)
+- "This EEG+EMG combined piano system allows you to control keys or chords via visual and muscle clench input."
+
 <footer>
     <div id = "images">
         <a href="https://cruxucla.com">

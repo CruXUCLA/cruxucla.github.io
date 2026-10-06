@@ -10,7 +10,9 @@
 These are links to Google folders containing workshop content like Google slides, Google Colab notebooks, and videos
 Previous workshops links are moved to the bottom of the page
 
+<!--
 ## Fall 2026 Workshops ([Fall 2026 Syllabus](https://docs.google.com/document/d/1Es6mllEJnhuf24_hkr8518D3T1i1r1kY/edit?usp=sharing&ouid=113041457492616466202&rtpof=true&sd=true))
+-->
 
 ### Week1, Monday, Moss Auditorium, 6:30pm
 #### Info Session! 

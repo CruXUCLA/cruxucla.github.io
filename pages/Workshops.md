@@ -22,6 +22,10 @@ Previous workshops links are moved to the bottom of the page
 
 ### Week2, Monday, Moss Auditorium, 6:30pm
 #### Workshop 1 (Introduction to Neurotech)
+[Workshop Recording](https://ucla.zoom.us/rec/share/AZ-Ec-Fx-ilSA95-fHwf_wYehz0jpRPjqvB2d483jTFLDiju3QmOVFKor2S0e2uT.3A1matQLd_Ql_sc7?startTime=1791250596000)
+Passcode: 1Ke&Uhs9
+
+
 [Introduction to Neurotechnology Slides](https://docs.google.com/presentation/d/1pD6FLmQurqURUfEQ0VH4DuiM4AXf27Ck_o5G4qksbAc/edit?usp=sharing) --- [Setup Slides](https://docs.google.com/presentation/d/1Ud5_FN5sgAmXPYzevQDdn7LVqPwtrEd4h8Xgwvt7AO0/edit?usp=sharing) 
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. 
 #### Extra Resources

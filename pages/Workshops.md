@@ -26,13 +26,18 @@ Previous workshops links are moved to the bottom of the page
 Passcode: 1Ke&Uhs9
 
 
-[Introduction to Neurotechnology Slides](https://docs.google.com/presentation/d/1pD6FLmQurqURUfEQ0VH4DuiM4AXf27Ck_o5G4qksbAc/edit?usp=sharing) --- [Setup Slides](https://docs.google.com/presentation/d/1Ud5_FN5sgAmXPYzevQDdn7LVqPwtrEd4h8Xgwvt7AO0/edit?usp=sharing) 
+[Introduction to Neurotechnology Slides](https://docs.google.com/presentation/d/1pD6FLmQurqURUfEQ0VH4DuiM4AXf27Ck_o5G4qksbAc/edit?usp=sharing) --- [Python Setup Slides](https://docs.google.com/presentation/d/1Ud5_FN5sgAmXPYzevQDdn7LVqPwtrEd4h8Xgwvt7AO0/edit?usp=sharing) 
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. 
 #### Extra Resources
 * [Brain Facts from NIH](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain)
 * [Learn Python Basics with CodingBat](https://codingbat.com/python)
 * [Major Neurotech Companies, Research Institutes, Non-Profit](https://singer.gatech.edu/neurotech-list/)
 
+---
+
+### Week3, Tuesday, Boelter 3400, 6:30pm
+#### Workshop 2 (Understanding EEG Signals)
+[Understanding EEG Signals Slides](https://docs.google.com/presentation/d/1uW5v0BBh9fEe2Pif-N1BfYMJrnNtBzZ23HB4cVvP4d8/edit?slide=id.g3f5a02921f3_0_160#slide=id.g3f5a02921f3_0_160) --- [Visualizing EEG Signals Slides](https://docs.google.com/presentation/d/1GivTzUBBieXDrMiCfooqgtn0y-GacZ0K-L7NK2D_cJ4/edit?slide=id.h280436d8ba7cfbd6_0_137#slide=id.h280436d8ba7cfbd6_0_137)
 
 <footer>
     <div id = "images">

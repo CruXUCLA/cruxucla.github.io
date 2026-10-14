@@ -26,7 +26,7 @@ Previous workshops links are moved to the bottom of the page
 Passcode: 1Ke&Uhs9
 
 
-[Introduction to Neurotechnology Slides](https://docs.google.com/presentation/d/1pD6FLmQurqURUfEQ0VH4DuiM4AXf27Ck_o5G4qksbAc/edit?usp=sharing) --- [Python Setup Slides](https://docs.google.com/presentation/d/1Ud5_FN5sgAmXPYzevQDdn7LVqPwtrEd4h8Xgwvt7AO0/edit?usp=sharing) 
+[Introduction to Neurotechnology Slides](https://docs.google.com/presentation/d/1pD6FLmQurqURUfEQ0VH4DuiM4AXf27Ck_o5G4qksbAc/edit?usp=sharing) --- [Python Setup Slides](https://docs.google.com/presentation/d/1Ud5_FN5sgAmXPYzevQDdn7LVqPwtrEd4h8Xgwvt7AO0/edit?usp=sharing)  --- [Dataset](https://drive.google.com/file/d/1BL_kMuz-4PjbOrn4AjY9ZroVVLjkoKxh/view?usp=drive_link)
 * Workshop 1 introduced the fundamentals of neurotechnology and neuroscience, covering Neuralink, brain and neuron structures, and brain-computer interface paradigms. 
 #### Extra Resources
 * [Brain Facts from NIH](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain)

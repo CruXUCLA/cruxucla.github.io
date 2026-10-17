@@ -37,7 +37,18 @@ Passcode: 1Ke&Uhs9
 
 ### Week3, Tuesday, Boelter 3400, 6:30pm
 #### Workshop 2 (Understanding EEG Signals)
-[Understanding EEG Signals Slides](https://docs.google.com/presentation/d/1uW5v0BBh9fEe2Pif-N1BfYMJrnNtBzZ23HB4cVvP4d8/edit?slide=id.g3f5a02921f3_0_160#slide=id.g3f5a02921f3_0_160) --- [Visualizing EEG Signals Slides](https://docs.google.com/presentation/d/1GivTzUBBieXDrMiCfooqgtn0y-GacZ0K-L7NK2D_cJ4/edit?slide=id.h280436d8ba7cfbd6_0_137#slide=id.h280436d8ba7cfbd6_0_137)
+[Understanding EEG Signals Slides](https://docs.google.com/presentation/d/1uW5v0BBh9fEe2Pif-N1BfYMJrnNtBzZ23HB4cVvP4d8/edit?slide=id.g3f5a02921f3_0_160#slide=id.g3f5a02921f3_0_160) --- [Visualizing EEG Signals Slides](https://docs.google.com/presentation/d/1GivTzUBBieXDrMiCfooqgtn0y-GacZ0K-L7NK2D_cJ4/edit?slide=id.h280436d8ba7cfbd6_0_137#slide=id.h280436d8ba7cfbd6_0_137) 
+
+[Workshop Recording](https://ucla.zoom.us/rec/share/DE7K2xIU1pW7bIkuxI4kIO1fGuA9jlxPCnZ9Nw5WU8Klet5JerxCi9HKB_AMhbA.g0Q0fRwOycEzsaC3?startTime=1791941621000
+) passcode: v6j8W!Sc --- [Visualization Exercise Solutions](https://drive.google.com/file/d/1IqIu_4saV1rskcv7-C3JwMPnL9m3_Vlr/view?usp=sharing)
+* Workshop 2 covered the basics of EEG, including electrode placement, an introduction to EEG data with its advantages, limitations, and formats, an overview of frequency bands, and hands-on use of the Python toolbox.
+#### Extra Resources
+* [Understanding the 10-20 System of EEG Electrode Placement](https://www.emotiv.com/blogs/how-to/understanding-the-10-20-system-of-eeg-electrode-placement)
+* [Limitations of Non-Invasive EEG Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC5483631/)
+* [Python MNE Documentation](https://mne.tools/stable/index.html)
+* [OpenNeuro: open-access neuroimaging data](https://openneuro.org/)
+
+
 
 <footer>
     <div id = "images">

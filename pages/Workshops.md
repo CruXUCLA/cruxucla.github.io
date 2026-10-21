@@ -52,7 +52,7 @@ Passcode: 1Ke&Uhs9
 
 ### Week4, Tuesday, Zoom, 6:30pm
 #### Workshop 3 (Preprocessing I&II)
-[Preprocessing I&II Slides](https://docs.google.com/presentation/d/1yp0rJPS_LhPvx_i96pIaDtA7udmgqsgYxCBUIQJNW3k/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Exercise Slides](https://docs.google.com/presentation/d/1EuObbkIAMJ7Y-8i0ACpzOwrdgefiFP7K9GhVZuPZ1Qc/edit?usp=sharing)
+[Preprocessing I&II Slides](https://docs.google.com/presentation/d/1yp0rJPS_LhPvx_i96pIaDtA7udmgqsgYxCBUIQJNW3k/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Exercise Slides](https://docs.google.com/presentation/d/1EuObbkIAMJ7Y-8i0ACpzOwrdgefiFP7K9GhVZuPZ1Qc/edit?usp=sharing) --- [Exercise Skeleton Notebook](https://drive.google.com/file/d/19K-XQpfA-mPtnTmSPaUWadHjEDd2PZyu/view?usp=sharing)
 
 <footer>
     <div id = "images">

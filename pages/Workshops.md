@@ -60,6 +60,7 @@ Passcode: 1Ke&Uhs9
 
 ### Week5, Tuesday, Boelter 3400, 6:30pm
 #### Workshop 4 (Feature Extraction)
+[Exercise Slides](https://docs.google.com/presentation/d/1Wwke-6Wd4QAT1U5tmBNQeY9BgI0P5uPD7RM2WKUGgjE/edit?slide=id.p1#slide=id.p1)--- [Exercise Notebook](https://colab.research.google.com/drive/1dj-yRMB6xu1AeYLUQ9ONNnspeWcHquqt) 
 
 <footer>
     <div id = "images">

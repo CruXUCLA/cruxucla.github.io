@@ -62,6 +62,8 @@ Passcode: 1Ke&Uhs9
 ### Week5, Tuesday, Boelter 3400, 6:30pm
 #### Workshop 4 (Feature Extraction)
 [Workshop Slides](https://docs.google.com/presentation/d/18E9PTiJhIjqixIbtoIagg21t_BLDeUXau5AZQzgAi6M/edit?slide=id.p#slide=id.p) --- [Exercise Slides](https://docs.google.com/presentation/d/1Wwke-6Wd4QAT1U5tmBNQeY9BgI0P5uPD7RM2WKUGgjE/edit?slide=id.p1#slide=id.p1)--- [Exercise Notebook](https://colab.research.google.com/drive/1dj-yRMB6xu1AeYLUQ9ONNnspeWcHquqt) 
+[Workshop Recording](https://ucla.zoom.us/rec/share/DlCCIdueuhvyP-UzZMKdYuP8QNbZuA1wBY2jOrqkDW0hY5icn5aP7rB3Uvo14X87.shQGFPwTnHqYPTpK) Passcode: E3&sEE&f ——- [Exercise Solutions](https://drive.google.com/file/d/1hbDwrHAk-IfSD-diImwOQ-sywS8WKU2E/view?usp=drivesdk)
+* Workshop 4 covered feature extraction, including specific python libraries to assist with epoching and other aspects of the process. 
 #### Extra Resources
 * [What is Feature Extraction?](https://www.techopedia.com/definition/feature-extraction)
 * [An easy‐to‐follow handbook for electroencephalogram data analysis with Python](https://zitonglu1996.github.io/files/2024Lu_BrainX.pdf)

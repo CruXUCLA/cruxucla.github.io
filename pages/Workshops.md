@@ -55,12 +55,16 @@ Passcode: 1Ke&Uhs9
 [Preprocessing I&II Slides](https://docs.google.com/presentation/d/1yp0rJPS_LhPvx_i96pIaDtA7udmgqsgYxCBUIQJNW3k/edit?slide=id.g2632f7dbc09_0_95#slide=id.g2632f7dbc09_0_95) --- [Exercise Slides](https://docs.google.com/presentation/d/1EuObbkIAMJ7Y-8i0ACpzOwrdgefiFP7K9GhVZuPZ1Qc/edit?usp=sharing) --- [Exercise Skeleton Notebook](https://drive.google.com/file/d/19K-XQpfA-mPtnTmSPaUWadHjEDd2PZyu/view?usp=sharing)
 
 [Workshop Recording](https://ucla.zoom.us/rec/share/gSlw17TbXPPbbgEhXZ3m9RCcjbW1roVYBMEE3s1rkYkv2H_sw4ply6c55PqCPGGF.svRvUzqYIDB4CQgw?startTime=1792546457000) Passcode: .X%KSip9 --- [Exercise Solutions](https://colab.research.google.com/drive/1Ug5FOISDWopJ8sF-ZZdGUE4Wa30-t3AW)
-
+* Workshop 3 covered preprocessing techniques and how to account for various types of noise commonly seen in EEG recordings.
 ---
 
 ### Week5, Tuesday, Boelter 3400, 6:30pm
 #### Workshop 4 (Feature Extraction)
 [Workshop Slides](https://docs.google.com/presentation/d/18E9PTiJhIjqixIbtoIagg21t_BLDeUXau5AZQzgAi6M/edit?slide=id.p#slide=id.p) --- [Exercise Slides](https://docs.google.com/presentation/d/1Wwke-6Wd4QAT1U5tmBNQeY9BgI0P5uPD7RM2WKUGgjE/edit?slide=id.p1#slide=id.p1)--- [Exercise Notebook](https://colab.research.google.com/drive/1dj-yRMB6xu1AeYLUQ9ONNnspeWcHquqt) 
+#### Extra Resources
+* [What is Feature Extraction?](https://www.techopedia.com/definition/feature-extraction)
+* [An easy‐to‐follow handbook for electroencephalogram data analysis with Python](https://zitonglu1996.github.io/files/2024Lu_BrainX.pdf)
+* [eeglib: A Python module for EEG feature extraction - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711021000753)
 
 <footer>
     <div id = "images">

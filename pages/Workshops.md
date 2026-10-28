@@ -56,6 +56,7 @@ Passcode: 1Ke&Uhs9
 
 [Workshop Recording](https://ucla.zoom.us/rec/share/gSlw17TbXPPbbgEhXZ3m9RCcjbW1roVYBMEE3s1rkYkv2H_sw4ply6c55PqCPGGF.svRvUzqYIDB4CQgw?startTime=1792546457000) Passcode: .X%KSip9 --- [Exercise Solutions](https://colab.research.google.com/drive/1Ug5FOISDWopJ8sF-ZZdGUE4Wa30-t3AW)
 * Workshop 3 covered preprocessing techniques and how to account for various types of noise commonly seen in EEG recordings.
+
 ---
 
 ### Week5, Tuesday, Boelter 3400, 6:30pm

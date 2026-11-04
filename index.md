@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="css/styles.css">
 ---
 
+[Research Panel RSVP](https://docs.google.com/forms/d/1dXfmdi9ZMRkaJYyg6VItItpaSmceL5GnKC0YQ3lYt2U)
 [General BCI Team Member Application](https://forms.gle/PJiniSSn8M7RVfKAA) --- [BCI Team Lead Application](https://forms.gle/g98rsDj2oJE1mfgg6)
 
 <!--

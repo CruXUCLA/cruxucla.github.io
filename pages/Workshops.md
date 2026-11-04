@@ -70,6 +70,8 @@ Passcode: 1Ke&Uhs9
 * [An easy‐to‐follow handbook for electroencephalogram data analysis with Python](https://zitonglu1996.github.io/files/2024Lu_BrainX.pdf)
 * [eeglib: A Python module for EEG feature extraction - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711021000753)
 
+---
+
 ### Week6, Tuesday, Boelter 3400, 6:30pm
 #### Workshop5 (Classification & Evaluation)
 [Workhop slides](https://docs.google.com/presentation/d/1-0DJKDglyinF6zt9_tz2aVxuOoyg0yPiePR1RSIkAn8/edit?usp=sharing) --- [Exercise Slides](https://docs.google.com/presentation/d/1111OdtfZ4z8_o1Wi2rKkUEtCGeLMucEZEh34yFZb0eg/edit?usp=sharing) --- [Exercise Notebook](https://colab.research.google.com/drive/1qqtbUma1PcFcmPDTERSOOssTmoTtZx85#scrollTo=Wv5iu1oYdGiV)

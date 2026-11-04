@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="css/styles.css">
 ---
 
-[Member Application](https://docs.google.com/forms/d/e/1FAIpQLSd8QffYNZZgsRXlM7hJIHVBrpU-ur9vtsbVKId4y7HnxFJ08Q/viewform?usp=dialog) --- [Slack Channel](https://join.slack.com/t/crux-ucla/shared_invite/zt-3l41ojx79-YsX8zbO3O2JM_S6IGaEUkA) 
+[General BCI Team Member Application](https://forms.gle/PJiniSSn8M7RVfKAA) --- [BCI Team Lead Application](https://forms.gle/g98rsDj2oJE1mfgg6)
 
 <!--
 ### [Campuswire Forum](https://campuswire.com/p/G928C6B14)

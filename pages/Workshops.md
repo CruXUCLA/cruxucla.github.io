@@ -80,9 +80,7 @@ Passcode: 1Ke&Uhs9
 
 ### Week7, Tuesday, Boelter 3400, 6:30pm
 #### Workshop6 (Experimental Design & Data Collection)
-[Workhop slides]([https://docs.google.com/presentation/d/1eNZUy3Z5R-ron9qzhVNA-pFwaPSlVbOfMHvzKFj8e-U/edit?usp=drivesdk]) --- [Exercise Slides](https://docs.google.com/presentation/d/1TdzuIKa5X4Li_rRrwbYLS0tpho2H8lExw6T4226np3o/edit?usp=drivesdk) --- [Exercise Notebook](https://colab.research.google.com/drive/1qqtbUma1PcFcmPDTERSOOssTmoTtZx85#scrollTo=Wv5iu1oYdGiV)
-
-[Exercise Solutions](https://drive.google.com/file/d/1JY6lJDb5O_baeSaBhHRVtHrZ-HwdUf7c/view?usp=sharing)
+[Workhop slides]([https://docs.google.com/presentation/d/1eNZUy3Z5R-ron9qzhVNA-pFwaPSlVbOfMHvzKFj8e-U/edit?usp=drivesdk]) --- [Exercise Slides](https://docs.google.com/presentation/d/1TdzuIKa5X4Li_rRrwbYLS0tpho2H8lExw6T4226np3o/edit?usp=drivesdk) --- [Exercise Notebook](https://colab.research.google.com/drive/1-CAUlWUKYsQ34Z1q3iqC_uTDjJ7HjYBQ?authuser=7)
 
 
 

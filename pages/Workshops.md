@@ -85,7 +85,7 @@ Passcode: 1Ke&Uhs9
 [Experimental Design slides](https://docs.google.com/presentation/d/1eNZUy3Z5R-ron9qzhVNA-pFwaPSlVbOfMHvzKFj8e-U/edit?usp=drivesdk) --- [Exercise Slides](https://docs.google.com/presentation/d/1TdzuIKa5X4Li_rRrwbYLS0tpho2H8lExw6T4226np3o/edit?usp=drivesdk) --- [Exercise Notebook](https://colab.research.google.com/drive/1-CAUlWUKYsQ34Z1q3iqC_uTDjJ7HjYBQ?authuser=7)
 
 [Workshop Recording]
-[Exercise Solutions]
+[Exercise Solutions] (https://colab.research.google.com/drive/17JjRZDtfruFHRx7LEsCR9OVbffHcocDM?authuser=7)
 * Workshop 6 covered common confounding variables and noise sources, methods to adapt literature review findings to design a better project, and signal-to-noise ratio.
 #### Extra Resources
 * [More causes of common artifacts](https://arxiv.org/pdf/2609.36609)

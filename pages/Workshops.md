@@ -61,7 +61,7 @@ Passcode: 1Ke&Uhs9
 
 ### Week5, Tuesday, Boelter 3400, 6:30pm
 #### Workshop 4 (Feature Extraction)
-[Workshop Slides](https://docs.google.com/presentation/d/18E9PTiJhIjqixIbtoIagg21t_BLDeUXau5AZQzgAi6M/edit?slide=id.p#slide=id.p) --- [Exercise Slides](https://docs.google.com/presentation/d/1Wwke-6Wd4QAT1U5tmBNQeY9BgI0P5uPD7RM2WKUGgjE/edit?slide=id.p1#slide=id.p1)--- [Exercise Notebook](https://colab.research.google.com/drive/1dj-yRMB6xu1AeYLUQ9ONNnspeWcHquqt) 
+[Feature Extraction Slides](https://docs.google.com/presentation/d/18E9PTiJhIjqixIbtoIagg21t_BLDeUXau5AZQzgAi6M/edit?slide=id.p#slide=id.p) --- [Exercise Slides](https://docs.google.com/presentation/d/1Wwke-6Wd4QAT1U5tmBNQeY9BgI0P5uPD7RM2WKUGgjE/edit?slide=id.p1#slide=id.p1)--- [Exercise Notebook](https://colab.research.google.com/drive/1dj-yRMB6xu1AeYLUQ9ONNnspeWcHquqt) 
 
 [Workshop Recording](https://ucla.zoom.us/rec/share/DlCCIdueuhvyP-UzZMKdYuP8QNbZuA1wBY2jOrqkDW0hY5icn5aP7rB3Uvo14X87.shQGFPwTnHqYPTpK) Passcode: E3&sEE&f ——- [Exercise Solutions](https://drive.google.com/file/d/1hbDwrHAk-IfSD-diImwOQ-sywS8WKU2E/view?usp=drivesdk)
 * Workshop 4 covered feature extraction, including specific python libraries to assist with epoching and other aspects of the process. 
@@ -74,15 +74,24 @@ Passcode: 1Ke&Uhs9
 
 ### Week6, Tuesday, Boelter 3400, 6:30pm
 #### Workshop5 (Classification & Evaluation)
-[Workhop slides](https://docs.google.com/presentation/d/1-0DJKDglyinF6zt9_tz2aVxuOoyg0yPiePR1RSIkAn8/edit?usp=sharing) --- [Exercise Slides](https://docs.google.com/presentation/d/1111OdtfZ4z8_o1Wi2rKkUEtCGeLMucEZEh34yFZb0eg/edit?usp=sharing) --- [Exercise Notebook](https://colab.research.google.com/drive/1qqtbUma1PcFcmPDTERSOOssTmoTtZx85#scrollTo=Wv5iu1oYdGiV)
+[Classification slides](https://docs.google.com/presentation/d/1-0DJKDglyinF6zt9_tz2aVxuOoyg0yPiePR1RSIkAn8/edit?usp=sharing) --- [Exercise Slides](https://docs.google.com/presentation/d/1111OdtfZ4z8_o1Wi2rKkUEtCGeLMucEZEh34yFZb0eg/edit?usp=sharing) --- [Exercise Notebook](https://colab.research.google.com/drive/1qqtbUma1PcFcmPDTERSOOssTmoTtZx85#scrollTo=Wv5iu1oYdGiV)
 
 [Exercise Solutions](https://drive.google.com/file/d/1JY6lJDb5O_baeSaBhHRVtHrZ-HwdUf7c/view?usp=sharing)
 
+---
+
 ### Week7, Tuesday, Boelter 3400, 6:30pm
 #### Workshop6 (Experimental Design & Data Collection)
-[Workhop slides](https://docs.google.com/presentation/d/1eNZUy3Z5R-ron9qzhVNA-pFwaPSlVbOfMHvzKFj8e-U/edit?usp=drivesdk) --- [Exercise Slides](https://docs.google.com/presentation/d/1TdzuIKa5X4Li_rRrwbYLS0tpho2H8lExw6T4226np3o/edit?usp=drivesdk) --- [Exercise Notebook](https://colab.research.google.com/drive/1-CAUlWUKYsQ34Z1q3iqC_uTDjJ7HjYBQ?authuser=7)
+[Experimental Design slides](https://docs.google.com/presentation/d/1eNZUy3Z5R-ron9qzhVNA-pFwaPSlVbOfMHvzKFj8e-U/edit?usp=drivesdk) --- [Exercise Slides](https://docs.google.com/presentation/d/1TdzuIKa5X4Li_rRrwbYLS0tpho2H8lExw6T4226np3o/edit?usp=drivesdk) --- [Exercise Notebook](https://colab.research.google.com/drive/1-CAUlWUKYsQ34Z1q3iqC_uTDjJ7HjYBQ?authuser=7)
 
+[Workshop Recording]
+[Exercise Solutions]
+* Workshop 6 covered common confounding variables and noise sources, methods to adapt literature review findings to design a better project, and signal-to-noise ratio.
+#### Extra Resources
+* [More causes of common artifacts](https://arxiv.org/pdf/2609.36609)
+* [Delegating tasks and saving collected data](https://pmc.ncbi.nlm.nih.gov/articles/PMC11276027/)
 
+---
 
 <footer>
     <div id = "images">

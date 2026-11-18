@@ -95,7 +95,7 @@ Passcode: Rq0P!X9k --- [Exercise Solutions](https://colab.research.google.com/dr
 
 ### Week 8, Tuesday, Zoom, 6:30pm
 #### Workshop 7
-[Colab Notebook](https://colab.research.google.com/drive/1eBLoVDs2J-QWhImPwrJD6bfMVOdEXtnh)
+[Workshop Slides](https://docs.google.com/presentation/d/1GhGjfJlv-eq7IfQ_ixHghm2NJoE6D8FlfrL1u090uH0/edit?slide=id.g3f53f0339e0_0_188#slide=id.g3f53f0339e0_0_188) - [Colab Notebook](https://colab.research.google.com/drive/1eBLoVDs2J-QWhImPwrJD6bfMVOdEXtnh)
 
 <footer>
     <div id = "images">

@@ -97,7 +97,7 @@ Passcode: Rq0P!X9k --- [Exercise Solutions](https://colab.research.google.com/dr
 #### Workshop 7
 [Workshop Slides](https://docs.google.com/presentation/d/1GhGjfJlv-eq7IfQ_ixHghm2NJoE6D8FlfrL1u090uH0/edit?slide=id.g3f53f0339e0_0_188#slide=id.g3f53f0339e0_0_188) --- [Colab Notebook](https://colab.research.google.com/drive/1eBLoVDs2J-QWhImPwrJD6bfMVOdEXtnh)
 
-[Workshop Recording](https://ucla.zoom.us/rec/share/JID-EADE5-IBIWeL1h3p0wRJfK6g5y0G-SAvQDQIR1Ky3itS__ukTeiaO0uYfoFc.umVJMinB7Srsgugd?startTime=1794969439000) Passcode: %6k!YGGf
+[Workshop Recording](https://ucla.zoom.us/rec/share/JID-EADE5-IBIWeL1h3p0wRJfK6g5y0G-SAvQDQIR1Ky3itS__ukTeiaO0uYfoFc.umVJMinB7Srsgugd?startTime=1794969439000) Passcode: %6k!YGGf --- [Colab Solutions](https://drive.google.com/file/d/1H_NQp7S5xkEhLWcpxelC6uCr5qjyHNp0/view?usp=sharing)
 
 <footer>
     <div id = "images">
